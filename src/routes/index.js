@@ -1,7 +1,9 @@
 const getBooks = require('./getBooks');
+const bocking = require('./bocking');
 
 const routers = [
-  ...getBooks
+  ...getBooks,
+  ...bocking
 ];
 
 module.exports = (app) => {
