@@ -1,0 +1,24 @@
+{
+  "name": "e-library",
+  "version": "1.0.0",
+  "description": "microservices for online library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon ./src/server/index.js | bunyan",
+    "start": "node ./src/server/index.js"
+  },
+  "keywords": [
+    "e-library"
+  ],
+  "author": "broy32@gmail.com",
+  "license": "unlicence",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mime": "^3.0.0",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.38"
+  }
+}

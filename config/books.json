@@ -1,0 +1,5968 @@
+[{
+    "key":"/subjects/love",
+    "name":"love",
+    "subject_type":"subject",
+    "work_count":14955,
+    "works":[
+       {
+          "key":"/works/OL21177W",
+          "title":"Wuthering Heights",
+          "edition_count":1455,
+          "cover_id":12818862,
+          "cover_edition_key":"OL38586477M",
+          "subject":[
+             "British and irish fiction (fictional works by one author)",
+             "Children's fiction",
+             "Classic fiction",
+             "Classic Literature",
+             "Country homes",
+             "Country life",
+             "Cousins",
+             "death",
+             "Drama",
+             "English language",
+             "English language readers",
+             "English literature",
+             "Examinations",
+             "Families",
+             "family life",
+             "Fiction",
+             "Foundlings",
+             "Historical Fiction",
+             "Inheritance and succession",
+             "Interpersonal relations",
+             "Juvenile fiction",
+             "Landscape in literature",
+             "love",
+             "Man-woman relationships",
+             "Manners and customs",
+             "orphans",
+             "Psychological fiction",
+             "Reading Level-Grade 7",
+             "Reading Level-Grade 8",
+             "Reading Level-Grade 9",
+             "Reading Level-Grade 10",
+             "Reading Level-Grade 11",
+             "Reading Level-Grade 12",
+             "Rejection (Psychology)",
+             "revenge",
+             "romance",
+             "Romance fiction",
+             "romantic fiction",
+             "Rural families",
+             "slavery",
+             "Social life and customs",
+             "tragedy",
+             "Triangles (Interpersonal relations)",
+             "Young women",
+             "Fiction, general",
+             "Revenge -- Fiction",
+             "Rejection (Psychology) -- Fiction",
+             "Love stories",
+             "Domestic fiction",
+             "Yorkshire (England) -- Fiction",
+             "Foundlings -- Fiction",
+             "Rural families -- Fiction",
+             "Heathcliff (Fictitious character : Brontë) -- Fiction",
+             "Triangles (Interpersonal relations) -- Fiction",
+             "Heathcliff (fictitious character), fiction",
+             "Fiction, family life, general",
+             "Fiction, psychological",
+             "Fiction, romance, general",
+             "Man-woman relationships, fiction",
+             "England, fiction",
+             "Triangle (Relations humaines)",
+             "Romans, nouvelles",
+             "Rejet (Psychologie)",
+             "Familles rurales",
+             "Enfants trouvés",
+             "Wuthering Heights (Brontë, Emily)",
+             "Vengeance",
+             "English fiction",
+             "Triangles (Interpersonal relationships)",
+             "Yorkshire (England)",
+             "Roman anglais",
+             "Relations entre hommes et femmes",
+             "Mœurs et coutumes",
+             "Women",
+             "Femmes",
+             "Heathcliff (Fictitious character)",
+             "Catherine Earnshawm (Fictitious character)",
+             "English Gothic fiction"
+          ],
+          "ia_collection":[
+             "365-Books-by-Women-Authors",
+             "additional_collections",
+             "americana",
+             "americanuniversity-ol",
+             "audio_bookspoetry",
+             "belmont-ol",
+             "binghamton-ol",
+             "bostonpubliclibrary",
+             "bostonuniversitylibraries-ol",
+             "bplhoughton",
+             "bpljordan-ol",
+             "china",
+             "cnusd-ol",
+             "cornell",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "drakeuniversity-ol",
+             "duke_libraries",
+             "europeanlibraries",
+             "framingham-ol",
+             "gutenberg",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "ithacacollege-ol",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "library_of_atlantis",
+             "librarygenesis",
+             "librivoxaudio",
+             "marymount-ol",
+             "miltonpubliclibrary-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "popularchinesebooks",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "robarts",
+             "rochester-ol",
+             "spokanepubliclibrary-ol",
+             "stmaryscountylibrary",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university",
+             "tulsacc-ol",
+             "udc-ol",
+             "unb-ol",
+             "uni-ol",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofthewest-ol",
+             "uslprototype",
+             "wilsoncollege-ol",
+             "worthingtonlibraries-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL39222415M",
+          "lending_identifier":"wutheringheights0000emil_z8q3",
+          "authors":[
+             {
+                "key":"/authors/OL4327048A",
+                "name":"Emily Brontë"
+             }
+          ],
+          "first_publish_year":1847,
+          "ia":"wutheringheights0000emil_z8q3",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"wutheringheights0000emil_z8q3",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL21177W",
+             "openlibrary_edition":"OL39222415M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL362427W",
+          "title":"Romeo and Juliet",
+          "edition_count":968,
+          "cover_id":8257991,
+          "cover_edition_key":"OL26501367M",
+          "subject":[
+             "Bibliography",
+             "British and irish drama (dramatic works by one author)",
+             "English Children's plays",
+             "Classical Literature",
+             "Conflicto entre generaciones",
+             "Conflict of generations",
+             "courtship",
+             "Criticism and interpretation",
+             "Drama",
+             "Drama inglés",
+             "Dramatic production",
+             "Enemistad mortal",
+             "English drama (collections), early modern and elizabethan, 1500-1600",
+             "English literature",
+             "English literature, study and teaching",
+             "English Love stories",
+             "English Young adult drama",
+             "Families",
+             "Fiction",
+             "History and criticism",
+             "Juvenile drama",
+             "Juvenile literature",
+             "Juventud",
+             "Language and linguistics",
+             "Literature",
+             "Love-Romance-Fiction",
+             "Love in adolescence",
+             "Man-woman relationships",
+             "Married people",
+             "open_syllabus_project",
+             "Performing Arts",
+             "Plays",
+             "Quartos",
+             "Reading Level-Grade 9",
+             "Reading Level-Grade 10",
+             "Reading Level-Grade 11",
+             "Reading Level-Grade 12",
+             "Shakespeare",
+             "Sources",
+             "Specimens",
+             "Stage history",
+             "Study guides",
+             "Suicide",
+             "Suspense-Fiction",
+             "Teatro",
+             "Tragedias",
+             "Tragedy",
+             "Vendetta",
+             "Youth",
+             "Shakespeare, william, 1564-1616",
+             "Shakespeare, william, 1564-1616, romeo and juliet",
+             "Shakespeare, william, 1564-1616, juvenile literature",
+             "Shakespeare, william, 1564-1616, criticism, textual",
+             "Shakespeare, william, 1564-1616, outlines, syllabi, etc.",
+             "Shakespeare, william, 1564-1616, dramatic production",
+             "Shakespeare, william, 1564-1616, stage history",
+             "Shakespeare, william, 1564-1616, criticism and interpretation",
+             "Drama, british and irish",
+             "Shakespeare, william, 1564-1616, adaptations",
+             "Critique et interprétation",
+             "Romeo and Juliet (Shakespeare, William)",
+             "Romeo (Fictitious character)",
+             "Juliet (Fictitious character)",
+             "English drama",
+             "Love",
+             "Adaptations",
+             "Comics & graphic novels, literary",
+             "Drama, collections",
+             "Translations",
+             "Tragedies",
+             "Man-woman relationship",
+             "Spanish language",
+             "Motion picture plays",
+             "Romeo and Juliet",
+             "Traducciones al español",
+             "18.05 English literature",
+             "Examinations",
+             "Fiction, general",
+             "Vendetta -- Drama",
+             "Youth -- Drama",
+             "Verona (Italy) -- Drama",
+             "Juliet (Fictitious character) -- Drama",
+             "Romeo (Fictitious character) -- Drama",
+             "Conflict of generations -- Drama",
+             "English drama (Tragedy)",
+             "Translations into Spanish",
+             "Early modern and Elizabethan",
+             "Teatro inglés (Tragedia)",
+             "Literatura inglesa",
+             "Theater",
+             "Aufführung",
+             "Geschichte",
+             "Drama (dramatic works by one author)",
+             "Caricatures and cartoons",
+             "Cartoons and comics",
+             "Caricatures et dessins humoristiques"
+          ],
+          "ia_collection":[
+             "JaiGyan",
+             "additional_collections",
+             "americana",
+             "americanuniversity-ol",
+             "audio_bookspoetry",
+             "audiocitenet",
+             "belmont-ol",
+             "binghamton-ol",
+             "blc",
+             "bncfirenze",
+             "bostonpubliclibrary",
+             "bostonuniversitylibraries-ol",
+             "bplill",
+             "bpljordan-ol",
+             "bplsceep",
+             "bplsctpbs",
+             "buddhist-digital-resource-center",
+             "buddhist-digital-resource-center-restricted",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "community",
+             "cornell",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "denverpubliclibrary-ol",
+             "digitallibraryindia",
+             "drakeuniversity-ol",
+             "europeanlibraries",
+             "folksoundomy",
+             "framingham-ol",
+             "getty",
+             "goffstownlibrary-ol",
+             "gutenberg",
+             "gwulibraries-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "ithacacollege-ol",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "library_of_congress",
+             "librarygenesis",
+             "librivoxaudio",
+             "marymount-ol",
+             "microfilm",
+             "miltonpubliclibrary-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "opensource",
+             "popularchinesebooks",
+             "printdisabled",
+             "prscr",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "spandr",
+             "spokanepubliclibrary-ol",
+             "stmaryscountylibrary",
+             "testifilosofiascienzaitaliani",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university",
+             "tulsacc-ol",
+             "uconn_libraries",
+             "unb-ol",
+             "unclibraries",
+             "uni-ol",
+             "univ_florida_smathers",
+             "university_of_alberta_libraries",
+             "university_of_alberta_libraries_microfilm",
+             "university_of_illinois_urbana-champaign",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityoffloridaduplicates",
+             "universityofoklahoma-ol",
+             "universityofthewest-ol",
+             "uslprototype",
+             "wilsoncollege-ol",
+             "worthingtonlibraries-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL23330725M",
+          "lending_identifier":"romeoundjulia00shakuoft",
+          "authors":[
+             {
+                "key":"/authors/OL9388A",
+                "name":"William Shakespeare"
+             }
+          ],
+          "first_publish_year":1597,
+          "ia":"romeoundjulia00shakuoft",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"romeoundjulia00shakuoft",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL362427W",
+             "openlibrary_edition":"OL23330725M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL98501W",
+          "title":"Ethan Frome",
+          "edition_count":718,
+          "cover_id":8303480,
+          "cover_edition_key":"OL7215847M",
+          "subject":[
+             "Accident victims",
+             "American fiction (fictional works by one author)",
+             "American literature",
+             "Children's fiction",
+             "Classic Literature",
+             "domestic fiction",
+             "English fiction",
+             "Family life",
+             "Farm life",
+             "Fiction",
+             "Guardian and ward",
+             "Interpersonal relations",
+             "Love",
+             "Man-woman relationships",
+             "Manners and customs",
+             "Marriage",
+             "Married people",
+             "poor",
+             "Poverty",
+             "Readers",
+             "Romance",
+             "Rural poor",
+             "Social life and customs",
+             "Study and teaching (Secondary)",
+             "Triangles (Interpersonal relations)",
+             "Young women",
+             "Married people, fiction",
+             "Massachusetts, fiction",
+             "Man-woman relationships, fiction",
+             "Wharton, edith, 1862-1937",
+             "Young women, fiction",
+             "Fiction, romance, general",
+             "Unrequited love",
+             "New england, fiction",
+             "English language, textbooks for foreign speakers",
+             "Single women, fiction",
+             "Fiction, historical, general",
+             "Fiction, general",
+             "Triangle (Relations humaines)",
+             "Romans, nouvelles",
+             "Victimes d'accidents",
+             "Couples mariés",
+             "Pauvres en milieu rural",
+             "Vie à la ferme"
+          ],
+          "ia_collection":[
+             "JaiGyan",
+             "americana",
+             "americanuniversity-ol",
+             "audio_bookspoetry",
+             "audiocitenet",
+             "bannedbooks",
+             "binghamton-ol",
+             "bostonuniversitylibraries-ol",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "digitallibraryindia",
+             "drakeuniversity-ol",
+             "folksoundomy",
+             "goffstownlibrary-ol",
+             "gutenberg",
+             "gwulibraries-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "kalamazoocollege-ol",
+             "library_of_atlantis",
+             "librarygenesis",
+             "librivoxaudio",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "stmaryscountylibrary",
+             "toronto",
+             "tulsacc-ol",
+             "ualbertawiedrick",
+             "udc-ol",
+             "unb-ol",
+             "university_of_alberta_libraries",
+             "universityofoklahoma-ol",
+             "uslprototype",
+             "wilsoncollege-ol",
+             "worthingtonlibraries-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL7215847M",
+          "lending_identifier":"ethanfrome00wharrich",
+          "authors":[
+             {
+                "key":"/authors/OL20188A",
+                "name":"Edith Wharton"
+             }
+          ],
+          "first_publish_year":1910,
+          "ia":"ethanfrome00wharrich",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"ethanfrome00wharrich",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL98501W",
+             "openlibrary_edition":"OL7215847M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL27776452W",
+          "title":"The Importance of Being Earnest",
+          "edition_count":442,
+          "cover_id":1260453,
+          "cover_edition_key":"OL9694914M",
+          "subject":[
+             "British and irish drama (dramatic works by one author)",
+             "English life",
+             "Readers",
+             "etiquette",
+             "love",
+             "manners",
+             "marriage",
+             "play",
+             "Children's fiction",
+             "Youth, fiction",
+             "Drama",
+             "Foundlings",
+             "Identity (Psychology)",
+             "Classic Literature",
+             "Comedias",
+             "English drama",
+             "English drama (Comedy)",
+             "Expósitos",
+             "Fiction",
+             "Identidad (Psicología)",
+             "Inglés",
+             "Libros de lectura",
+             "Social life and customs",
+             "Teatro",
+             "Comedy",
+             "British and irish fiction (fictional works by one author)",
+             "English literature",
+             "History and criticism",
+             "Literature",
+             "Movie novels",
+             "Man-woman relationships",
+             "Social norms",
+             "Aristocracy (Social class)",
+             "Unterrichtseinheit",
+             "Dictionaries",
+             "English language",
+             "Spanish",
+             "Manners and customs",
+             "French",
+             "Mistaken identity",
+             "Drama (dramatic works by one author)",
+             "Comics & graphic novels, literary",
+             "Courtship"
+          ],
+          "ia_collection":[
+             "americana",
+             "binghamton-ol",
+             "bpljordan-ol",
+             "cdl",
+             "china",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "denverpubliclibrary-ol",
+             "drakeuniversity-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "library_of_atlantis",
+             "librarygenesis",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "stmaryscountylibrary",
+             "trent_university",
+             "universityofarizona-ol",
+             "worthingtonlibraries-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL24953263M",
+          "lending_identifier":"importanceofbein1895wild",
+          "authors":[
+             {
+                "key":"/authors/OL20646A",
+                "name":"Oscar Wilde"
+             }
+          ],
+          "first_publish_year":1893,
+          "ia":"importanceofbein1895wild",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"importanceofbein1895wild",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL27776452W",
+             "openlibrary_edition":"OL24953263M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL267096W",
+          "title":"Anna Karénina",
+          "edition_count":388,
+          "cover_id":2560652,
+          "cover_edition_key":"OL10601812M",
+          "subject":[
+             "Fiction",
+             "Adultery",
+             "Married women",
+             "Social life and customs",
+             "Social conditions",
+             "Upper class women",
+             "Russian literature",
+             "Upper class",
+             "Classic Literature",
+             "Literature",
+             "Drama",
+             "Non-English Fiction",
+             "Romance",
+             "Russian fiction",
+             "open_syllabus_project",
+             "Long Now Manual for Civilization",
+             "Reading Level-Grade 11",
+             "Reading Level-Grade 12",
+             "Continental European fiction (fictional works by one author)",
+             "Married people, fiction",
+             "History",
+             "Manners and customs",
+             "Russia",
+             "Love stories",
+             "FICTION / Classics",
+             "FICTION / Literary",
+             "Literary",
+             "Spanish: Adult Fiction",
+             "Slavic philology",
+             "Romance fiction",
+             "love",
+             "marriage",
+             "morals",
+             "Chang pian xiao shuo",
+             "Translations into English",
+             "Translations from Russian",
+             "English fiction",
+             "Mujeres casadas",
+             "Novela",
+             "Adulterio",
+             "Ancient, Classical & Medieval",
+             "Russian Novel And Short Story",
+             "Literature - Classics / Criticism",
+             "Literary Collections",
+             "Classics",
+             "Romance - General",
+             "Cuentos de amor",
+             "Vida social y costumbres",
+             "Ficción",
+             "Literature and fiction, historical fiction",
+             "Fiction, romance, historical, general",
+             "Adultery -- Fiction",
+             "Didactic fiction",
+             "Russia -- Fiction",
+             "Large type books",
+             "Femmes mariées",
+             "Romans, nouvelles",
+             "Wives"
+          ],
+          "ia_collection":[
+             "California-State-Suggested-Reading",
+             "additional_collections",
+             "americana",
+             "americanuniversity-ol",
+             "barryuniversity-ol",
+             "belmont-ol",
+             "binghamton-ol",
+             "books",
+             "bostonuniversitylibraries-ol",
+             "cdl",
+             "china",
+             "clean_list",
+             "cnusd-ol",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "denverpubliclibrary-ol",
+             "drakeuniversity-ol",
+             "duke_libraries",
+             "framingham-ol",
+             "greatbooks",
+             "gwulibraries-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "kellylibrary",
+             "library_of_atlantis",
+             "librarygenesis",
+             "marymount-ol",
+             "nationalyiddishbookcenter",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "popularchinesebooks",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "stmaryscountylibrary",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university",
+             "tulsacc-ol",
+             "unb-ol",
+             "uni-ol",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofoklahoma-ol",
+             "uslprototype",
+             "wilsoncollege-ol",
+             "worthingtonlibraries-ol",
+             "wrlc-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL22876225M",
+          "lending_identifier":"nybc211555",
+          "authors":[
+             {
+                "key":"/authors/OL26783A",
+                "name":"Lev Nikolaevič Tolstoy"
+             }
+          ],
+          "first_publish_year":1876,
+          "ia":"nybc211555",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"nybc211555",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL267096W",
+             "openlibrary_edition":"OL22876225M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL8193420W",
+          "title":"The Republic",
+          "edition_count":349,
+          "cover_id":8235511,
+          "cover_edition_key":"OL6959867M",
+          "subject":[
+             "Portrait photography",
+             "Portraits",
+             "Celebrities",
+             "Antiquarian",
+             "Nonfiction",
+             "Philosophy",
+             "Utopias",
+             "Early works to 1800",
+             "Political science",
+             "Poli tica",
+             "Estado",
+             "State",
+             "Political science, early works to 1800",
+             "Political ethics",
+             "Love",
+             "Justice",
+             "Plato",
+             "Science politique",
+             "Utopies",
+             "Greek Education",
+             "United states, pictorial works",
+             "Photography, artistic",
+             "Continental european fiction (fictional works by one author)",
+             "PHILOSOPHY / History & Surveys / Ancient & Classical"
+          ],
+          "ia_collection":[
+             "Princeton",
+             "americana",
+             "americanuniversity-ol",
+             "barryuniversity-ol",
+             "belmont-ol",
+             "binghamton-ol",
+             "bostonpubliclibrary",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "cornell",
+             "delawarecountydistrictlibrary",
+             "drakeuniversity-ol",
+             "duke_libraries",
+             "europeanlibraries",
+             "gerstein",
+             "getty",
+             "greatbooks",
+             "greekclassicslist",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnadamsBPL",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "kellylibrary",
+             "library_of_atlantis",
+             "librarygenesis",
+             "medicalheritagelibrary",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "pimslibrary",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "saint_marys_college",
+             "toronto",
+             "trent_university",
+             "ukmhl",
+             "unb-ol",
+             "uni-ol",
+             "university_of_illinois_urbana-champaign",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofthewest-ol",
+             "uoftpreservation",
+             "utmississauga",
+             "wellcomelibrary",
+             "wilsoncollege-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL2240984M",
+          "lending_identifier":"larepubliquedepl01plat",
+          "authors":[
+             {
+                "key":"/authors/OL189658A",
+                "name":"Πλάτων"
+             },
+             {
+                "key":"/authors/OL2933723A",
+                "name":"G.M.A. Grube"
+             }
+          ],
+          "first_publish_year":1554,
+          "ia":"larepubliquedepl01plat",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"larepubliquedepl01plat",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL8193420W",
+             "openlibrary_edition":"OL2240984M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL551668W",
+          "title":"Cyrano de Bergerac",
+          "edition_count":307,
+          "cover_id":8236320,
+          "cover_edition_key":"OL8887195M",
+          "subject":[
+             "Drama",
+             "History",
+             "French Authors",
+             "Cyrano de Bergerac, Savinien, 1619-1655",
+             "French drama",
+             "English drama",
+             "French language",
+             "Translations into English",
+             "Translations from French",
+             "Théâtre",
+             "In literature",
+             "1619-1655",
+             "Classic Literature",
+             "Fiction",
+             "Social life and customs",
+             "Love",
+             "Rejection (Psychology)",
+             "Adventure stories",
+             "Cyrano de Bergerac, 1619-1655",
+             "Fa guo xiao shuo",
+             "Continental european drama (dramatic works by one author)",
+             "Cyrano de bergerac, 1619-1655, drama",
+             "Continental european fiction (fictional works by one author)",
+             "Large type books",
+             "American literature",
+             "Comic books, strips",
+             "teatro",
+             "Cyrano de Bergerac, Savinien,",
+             "German",
+             "Dictionaries",
+             "English language",
+             "Continental European",
+             "Drama (dramatic works by one author)",
+             "Korean",
+             "French",
+             "French language materials",
+             "Chinese",
+             "Spanish",
+             "Fiction, historical, general"
+          ],
+          "ia_collection":[
+             "additional_collections",
+             "americana",
+             "americanuniversity-ol",
+             "binghamton-ol",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "drakeuniversity-ol",
+             "framingham-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "ithacacollege-ol",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "kellylibrary",
+             "librarygenesis",
+             "microfilm",
+             "miltonpubliclibrary-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "spokanepubliclibrary-ol",
+             "stmaryscountylibrary",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university",
+             "tulsacc-ol",
+             "ualbertawiedrick",
+             "ubclibrary",
+             "unb-ol",
+             "uni-ol",
+             "university_of_alberta_libraries",
+             "university_of_alberta_libraries_microfilm",
+             "universityofcoloradoboulder-ol",
+             "universityofoklahoma-ol",
+             "universityofottawa",
+             "wilsoncollege-ol",
+             "wrlc-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL24649740M",
+          "lending_identifier":"cyranodebergerac1897rost",
+          "authors":[
+             {
+                "key":"/authors/OL39281A",
+                "name":"Edmond Rostand"
+             }
+          ],
+          "first_publish_year":1821,
+          "ia":"cyranodebergerac1897rost",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"cyranodebergerac1897rost",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL551668W",
+             "openlibrary_edition":"OL24649740M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL10264W",
+          "title":"Le Petit Prince",
+          "edition_count":267,
+          "cover_id":10708272,
+          "cover_edition_key":"OL7366018M",
+          "subject":[
+             "adventure",
+             "fantasy",
+             "friendship",
+             "love",
+             "childhood",
+             "loss",
+             "loneliness",
+             "Italian language",
+             "Children's fiction",
+             "Friendship, fiction",
+             "Fantasy fiction",
+             "Princes, fiction",
+             "Fairy tales",
+             "Adventure and adventurers, fiction",
+             "Princes",
+             "Fiction",
+             "Toy and movable books",
+             "Continental european fiction (fictional works by one author)",
+             "French language, readers",
+             "Romans, nouvelles"
+          ],
+          "ia_collection":[
+             "TopChildrensBooks",
+             "ambslibrary-ol",
+             "americana",
+             "belmont-ol",
+             "binghamton-ol",
+             "bostonuniversitylibraries-ol",
+             "bpljordan-ol",
+             "brynmawr-ol",
+             "china",
+             "cnusd-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "denverpubliclibrary-ol",
+             "drakeuniversity-ol",
+             "framingham-ol",
+             "goffstownlibrary-ol",
+             "gwulibraries-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "ithacacollege-ol",
+             "library_of_atlantis",
+             "librarygenesis",
+             "marymount-ol",
+             "miltonpubliclibrary-ol",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "rochester-ol",
+             "smithsonianlibraries",
+             "spokanepubliclibrary-ol",
+             "stmaryscountylibrary",
+             "the-claremont-colleges-ol",
+             "tulsacc-ol",
+             "unb-ol",
+             "uni-ol",
+             "universityofoklahoma-ol",
+             "universityofthewest-ol",
+             "worthingtonlibraries-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL15554601M",
+          "lending_identifier":"littleprince0000sain_y5b5",
+          "authors":[
+             {
+                "key":"/authors/OL31901A",
+                "name":"Antoine de Saint-Exupéry"
+             }
+          ],
+          "first_publish_year":1943,
+          "ia":"littleprince0000sain_y5b5",
+          "public_scan":false,
+          "has_fulltext":true,
+          "availability":{
+             "status":"borrow_available",
+             "available_to_browse":true,
+             "available_to_borrow":false,
+             "available_to_waitlist":true,
+             "is_printdisabled":true,
+             "is_readable":false,
+             "is_lendable":true,
+             "is_previewable":true,
+             "identifier":"littleprince0000sain_y5b5",
+             "isbn":"0434961604",
+             "oclc":null,
+             "openlibrary_work":"OL10279W",
+             "openlibrary_edition":"OL15554601M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":true,
+             "is_browseable":true,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL15100036W",
+          "title":"The Dialogues of Plato",
+          "edition_count":246,
+          "cover_id":8236248,
+          "cover_edition_key":"OL20516416M",
+          "subject":[
+             "Aesthetics",
+             "Ancient Philosophy",
+             "Ancient Rhetoric",
+             "Bibliography",
+             "Biography",
+             "Early works to 1800",
+             "Ethics",
+             "Filosofía antigua",
+             "Friendship",
+             "Greek Dialogues",
+             "Greek poetry",
+             "History",
+             "History & criticism",
+             "History and criticism",
+             "Imaginary conversations",
+             "Language and languages",
+             "Love",
+             "Male Homosexuality",
+             "Methodology",
+             "Nonfiction",
+             "Ontology",
+             "Philosophers",
+             "Philosophy",
+             "Pleasure",
+             "Poetics",
+             "Political science",
+             "Rhetoric",
+             "Socrates",
+             "Sophists (Greek philosophy)",
+             "The Holy",
+             "Theory of Knowledge",
+             "Utopias",
+             "Jowett, Benjamin, 1817-1893",
+             "Filosofie",
+             "Philosophie ancienne",
+             "Ouvrages avant 1800",
+             "Platao",
+             "Platonismo",
+             "Colecciones de escritos",
+             "Colecciones",
+             "Vertus",
+             "Literatura griega",
+             "Filosofía griega",
+             "Platonists",
+             "Dialogen",
+             "Klassieke oudheid",
+             "Grieks",
+             "Death and burial",
+             "Trials, litigation",
+             "Ancient & Classical",
+             "History & Surveys",
+             "Electronic books",
+             "open_syllabus_project",
+             "Collected works",
+             "Filosofia grega",
+             "Filosofia antiga",
+             "Translations into English",
+             "Works (Plato)",
+             "Ancient Philosophers",
+             "Philosophy, ancient",
+             "Homosexuality",
+             "Continental european drama (dramatic works by one author)",
+             "Socrates, drama",
+             "Plato",
+             "Knowledge, theory of",
+             "Sophists (greek philosophy)",
+             "Rhetoric, ancient",
+             "Language and languages, philosophy",
+             "Classical philology"
+          ],
+          "ia_collection":[
+             "americana",
+             "americanuniversity-ol",
+             "barryuniversity-ol",
+             "belmont-ol",
+             "binghamton-ol",
+             "bostonuniversitylibraries-ol",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "cornell",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "denverpubliclibrary-ol",
+             "drakeuniversity-ol",
+             "europeanlibraries",
+             "framingham-ol",
+             "goffstownlibrary-ol",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "kellylibrary",
+             "librarygenesis",
+             "marymount-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "phillipsacademy-preview",
+             "pimslibrary",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "swarthmore-ol",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university",
+             "unb-ol",
+             "uni-ol",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofoklahoma-ol",
+             "universityofthewest-ol",
+             "uoftpreservation",
+             "wilsoncollege-ol",
+             "worthingtonlibraries-ol",
+             "wrlc-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL23294348M",
+          "lending_identifier":"dialoguesofp03plat",
+          "authors":[
+             {
+                "key":"/authors/OL189658A",
+                "name":"Πλάτων"
+             }
+          ],
+          "first_publish_year":1701,
+          "ia":"dialoguesofp03plat",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"dialoguesofp03plat",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL15100036W",
+             "openlibrary_edition":"OL23294348M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL239940W",
+          "title":"कामसूत्र",
+          "edition_count":236,
+          "cover_id":8003766,
+          "cover_edition_key":"OL26327691M",
+          "subject":[
+             "Sex customs",
+             "Love",
+             "Sexual intercourse",
+             "Sex",
+             "New York Times reviewed",
+             "Early works to 1800",
+             "Erotic art",
+             "Erotic literature",
+             "Indic Erotic literature",
+             "Sanskrit Erotic literature",
+             "Sex instruction",
+             "Specimens",
+             "Toy and movable books",
+             "Amor",
+             "Literatura erótica índica",
+             "Relaciones sexuales",
+             "Sexo",
+             "Obras anteriores a 1800",
+             "India, social life and customs",
+             "Erotic literature, Indic",
+             "Nonfiction",
+             "Sociology",
+             "kama sutra",
+             "sex positions",
+             "kama sutra illustrated",
+             "erotica",
+             "lovemaking",
+             "sexuality",
+             "seduction",
+             "Classic Literature",
+             "Fiction",
+             "Vatsyayana",
+             "Mind and body",
+             "Fiction, historical, general",
+             "Sutras",
+             "Romance",
+             "Sex & sexuality",
+             "Hindu philosophy",
+             "human relations",
+             "sexology",
+             "Kamasutra",
+             "Hinduismus",
+             "Sexualverhalten",
+             "Interpersonal Relations",
+             "Sanskrit",
+             "Sexual Behavior",
+             "Erotische Literatur",
+             "Indic literature, translations into english",
+             "Amour",
+             "Sexualité",
+             "Relations sexuelles",
+             "Littérature érotique sanskrite",
+             "Traductions françaises",
+             "Sexuality"
+          ],
+          "ia_collection":[
+             "americana",
+             "barryuniversity-ol",
+             "bostonuniversitylibraries-ol",
+             "china",
+             "dartmouthlibrary-ol",
+             "deemphasize",
+             "delawarecountydistrictlibrary",
+             "denverpubliclibrary-ol",
+             "gutenberg",
+             "gwulibraries-ol",
+             "hamiltonpubliclibrary-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "library_of_atlantis",
+             "librarygenesis",
+             "marymount-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "riceuniversity-ol",
+             "robarts",
+             "smithsonianlibraries",
+             "spokanepubliclibrary-ol",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "university_of_illinois_urbana-champaign",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofthewest-ol",
+             "wrlc-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL7021277M",
+          "lending_identifier":"kamasutraofvatsy00vatsuoft",
+          "authors":[
+             {
+                "key":"/authors/OL2531003A",
+                "name":"Vātsyāyana"
+             }
+          ],
+          "first_publish_year":1883,
+          "ia":"kamasutraofvatsy00vatsuoft",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"kamasutraofvatsy00vatsuoft",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL239940W",
+             "openlibrary_edition":"OL7021277M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL259028W",
+          "title":"Works [37 plays, 6 poems, sonnets]",
+          "edition_count":213,
+          "cover_id":8779054,
+          "cover_edition_key":"OL26241879M",
+          "subject":[
+             "Early Modern and Elizabethan English Drama",
+             "English literature",
+             "English drama",
+             "English poetry",
+             "theatre",
+             "poetry",
+             "Performing Arts",
+             "courtship",
+             "Drama",
+             "Youth",
+             "Vendetta",
+             "Love-Romance-Fiction",
+             "Classic-Classical Literature",
+             "Suspense-Fiction",
+             "Conflict of generations",
+             "Juvenile drama",
+             "Plays",
+             "Children's plays",
+             "Juvenile literature",
+             "Dramatic production",
+             "English Young adult drama",
+             "Tragedy",
+             "Suicide",
+             "Love in adolescence",
+             "English Love stories",
+             "Man-woman relationships",
+             "Families",
+             "Fiction",
+             "ides",
+             "production and direction",
+             "inheritance and succession",
+             "Britons",
+             "English plays",
+             "aging parents",
+             "scripts",
+             "fathers and daughters",
+             "English language",
+             "open_syllabus_project",
+             "Princes",
+             "English drama (Tragedy)",
+             "Texts",
+             "Kings and rulers",
+             "Murder victims' families",
+             "Revenge",
+             "Death",
+             "Homicide",
+             "English",
+             "Drama texts",
+             "Drama texts: from c 1900 -",
+             "Shakespeare playsmistaken identities",
+             "comedy",
+             "Conspiracies",
+             "Rejection (Psychology)",
+             "Classic Literature",
+             "English drama (Comedy)",
+             "Stories, plots",
+             "Open Library Staff Picks",
+             "Biography",
+             "Forgeries",
+             "English literature: Shakespeare texts",
+             "Classics",
+             "tragicomedy",
+             "Survival after airplane accidents",
+             "shipwrecks",
+             "Magicians",
+             "Castaways",
+             "Spirits",
+             "Shipwreck victims",
+             "Political refugees",
+             "Islands",
+             "Shipwreck survival",
+             "British and irish drama (dramatic works by one author)",
+             "Generals",
+             "Goths",
+             "Titus Andronicus (Legendary character)",
+             "Heroes",
+             "History",
+             "Homes and haunts",
+             "Early modern and Elizabethan",
+             "Languages & Literatures",
+             "poems",
+             "Drama (dramatic works by one author)",
+             "History and criticism",
+             "Juvenile fiction",
+             "Nobility",
+             "Pictorial works",
+             "play",
+             "Reading Level-Grade 11",
+             "Reading Level-Grade 12",
+             "Roman Empire",
+             "Stage history",
+             "Bibliography",
+             "Classical Literature",
+             "English Children's plays",
+             "Language and linguistics",
+             "Literature",
+             "Love",
+             "Man-woman relationship",
+             "Married people",
+             "Reading Level-Grade 9",
+             "Reading Level-Grade 10",
+             "Tragedies",
+             "Littérature anglaise",
+             "Théâtre anglais",
+             "Poésie anglaise",
+             "Collected works (single author, multi-form)",
+             "Shakespeare, william, 1564-1616"
+          ],
+          "ia_collection":[
+             "additional_collections",
+             "americana",
+             "belmont-ol",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "cua-ol",
+             "delawarecountydistrictlibrary",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "kellylibrary",
+             "library_of_atlantis",
+             "library_of_congress",
+             "librarygenesis",
+             "microfilm",
+             "openlibrary-d-ol",
+             "palnilastcopies",
+             "pma-ol",
+             "printdisabled",
+             "riceuniversity-ol",
+             "robarts",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university",
+             "tulsacc-ol",
+             "university_of_alberta_libraries",
+             "university_of_alberta_libraries_microfilm",
+             "university_of_illinois_urbana-champaign",
+             "usfplc"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL24735656M",
+          "lending_identifier":"completedramatic01shak",
+          "authors":[
+             {
+                "key":"/authors/OL9388A",
+                "name":"William Shakespeare"
+             }
+          ],
+          "first_publish_year":1730,
+          "ia":"completedramatic01shak",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"completedramatic01shak",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL259028W",
+             "openlibrary_edition":"OL24735656M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL51950W",
+          "title":"Symposium",
+          "edition_count":150,
+          "cover_id":8236957,
+          "cover_edition_key":"OL7023242M",
+          "subject":[
+             "Religious aspects of Love",
+             "Ouvrages avant 1800",
+             "great_books_of_the_western_world",
+             "Christianity",
+             "Platonic love",
+             "Socrate",
+             "Philosophy",
+             "Rhetoric",
+             "Soul",
+             "Ancient Rhetoric",
+             "Filosofia antiga",
+             "Theory of Knowledge",
+             "Mythology",
+             "Imaginary conversations",
+             "Love",
+             "Amor (filosofia)",
+             "Influence",
+             "Immortality (Philosophy)",
+             "Early works to 1800",
+             "Amour",
+             "Socrates",
+             "Ancient Philosophy",
+             "Friendship",
+             "Male homosexuality",
+             "Translations into French",
+             "Plato",
+             "Philosophy, ancient",
+             "Beau (Philosophie)",
+             "Philosophie",
+             "Kommentar",
+             "Rhétorique ancienne",
+             "Âme",
+             "Dialectique",
+             "Rhetoric, ancient",
+             "Philosophers, greece",
+             "Collections",
+             "Criticism and interpretation"
+          ],
+          "ia_collection":[
+             "ambslibrary-ol",
+             "americana",
+             "americanuniversity-ol",
+             "barryuniversity-ol",
+             "belmont-ol",
+             "binghamton-ol",
+             "bostonuniversitylibraries-ol",
+             "cdl",
+             "china",
+             "cornell",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "drakeuniversity-ol",
+             "framingham-ol",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "ithacacollege-ol",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "librarygenesis",
+             "marymount-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "stmaryscountylibrary",
+             "swarthmore-ol",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trinitycollege",
+             "udc-ol",
+             "unb-ol",
+             "uni-ol",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofoklahoma-ol",
+             "universityofthewest-ol",
+             "wilsoncollege-ol",
+             "wrlc-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL7023242M",
+          "lending_identifier":"ofplatobanquet00platrich",
+          "authors":[
+             {
+                "key":"/authors/OL189658A",
+                "name":"Πλάτων"
+             }
+          ],
+          "first_publish_year":1559,
+          "ia":"ofplatobanquet00platrich",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"ofplatobanquet00platrich",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL51950W",
+             "openlibrary_edition":"OL7023242M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       }
+    ]
+ },
+ {
+    "key":"/subjects/religious_aspects",
+    "name":"Religious aspects",
+    "subject_type":"subject",
+    "work_count":40383,
+    "works":[
+       {
+          "key":"/works/OL17732W",
+          "title":"Bible",
+          "edition_count":3088,
+          "cover_id":12707846,
+          "cover_edition_key":"OL39801870M",
+          "subject":[
+             "Bibles, new living translation, text",
+             "Bible, versions, english",
+             "Large type books",
+             "Bibles, new living translation, youth & teen",
+             "Manuscripts, Latin (Medieval and modern)",
+             "Glossaries, vocabularies",
+             "Early works to 1800",
+             "Bible",
+             "Bibles, new king james version, devotional",
+             "Bibles - New King James",
+             "Religion",
+             "Bibles",
+             "Bibles - King James",
+             "Biblical Studies - General",
+             "Religion / Bible / General",
+             "Bible - General",
+             "Revised Standard",
+             "Versions",
+             "New Revised Standard Version",
+             "Reference editions",
+             "Commentaries",
+             "King James Version",
+             "Authorized",
+             "Works in Assamese",
+             "Illustrations",
+             "Texts",
+             "Criticism, interpretation",
+             "Abridgments",
+             "Shorthand",
+             "Gideon Bible",
+             "Bibles, king james version, text",
+             "Sacred books",
+             "Church of Jesus Christ of Latter-day Saints",
+             "BÍBLIA (INTERPRETAÇÃO)",
+             "Juvenile literature",
+             "The Bible",
+             "Protestant Episcopal Church in the U.S.A.",
+             "Protestant Episcopal Church in the U.S.A. Joint commission on marginal readings in the Bible",
+             "Biblia",
+             "Christian life",
+             "Study and teaching",
+             "English Concordances",
+             "Dictionaries",
+             "Bible, study and teaching",
+             "Authorized King James",
+             "Jews",
+             "Antiquities",
+             "Handbooks, manuals",
+             "Apocryphal books (Old Testament)",
+             "Bibles, other english translations, text",
+             "Bibles, new king james version, general",
+             "Bibles, new international version, children",
+             "Bibles, new international version, general",
+             "Bibles, general",
+             "Bibles, new international version, new testament & portions",
+             "Bibles, new international reader's version, general",
+             "Bibles, new international reader's version, children",
+             "Bibles, king james version, general",
+             "Education",
+             "Doctrines",
+             "Spiritual life",
+             "Catholic Church",
+             "New Revised Standard Version - Text",
+             "Bibles - New Revised Standard",
+             "Translations into English",
+             "Bibles, other english translations, general",
+             "African Americans",
+             "Religious life",
+             "Bibles for the blind",
+             "New Testament",
+             "Bible., English",
+             "Bibles, new king james version, reference",
+             "Bible (Texts, versions, etc.)",
+             "11.31 texts and translations of the Bible",
+             "Peshitta",
+             "Bible. Syriac",
+             "English Harmonies",
+             "English Translations",
+             "Pictorial works",
+             "Bible, commentaries",
+             "English Parallel versions",
+             "Bible. English -- Versions",
+             "Holy Bible in Modern English",
+             "Translations",
+             "Introductions",
+             "Biography",
+             "Creation",
+             "Biblical teaching",
+             "History",
+             "Scofield reference Bible system",
+             "Concordances",
+             "Bibles, english standard version, text",
+             "Bibles, english standard version, general",
+             "Bibles, new international version, study",
+             "Bible, juvenile literature",
+             "Bibles, new revised standard version, text",
+             "Catholic Versions",
+             "Bibles, new revised standard version, general",
+             "Chinese Versions",
+             "English Versions",
+             "English Interlinear translations",
+             "Bible. English",
+             "New revised standard",
+             "Bible, criticism, interpretation, etc.",
+             "Catholic Truth Society (Great Britain)",
+             "Church year meditations",
+             "Lectionaries",
+             "Bible, theology",
+             "New American",
+             "Bible, handbooks, manuals, etc.",
+             "Bibel",
+             "Bijbel",
+             "Christianity",
+             "Spirituality",
+             "Bibles, new american bible, general",
+             "Bible. -- Old Testament",
+             "Bible. -- New Testament",
+             "Teenagers' use",
+             "English Bible stories",
+             "Bible stories",
+             "Bible--Study and teaching--Catholic Church",
+             "Catholic youth--Religious life",
+             "Catholic youth",
+             "Devotional calendars",
+             "Christian women",
+             "Prayers and devotions",
+             "Women -- Prayer-books and devotions -- English",
+             "Devotional exercises",
+             "Couples",
+             "Prayer-books and devotions",
+             "English",
+             "Devotional use",
+             "Older Christians",
+             "Bible, meditations",
+             "Older people, prayers and devotions",
+             "Meditations",
+             "Twelve-step programs",
+             "Conduct of life",
+             "Prayer books and devotions",
+             "Teenagers",
+             "Amplified",
+             "Men's Bible",
+             "Twelve-step programs -- Religious aspects -- Christianity -- Meditations",
+             "Bible -- Meditations",
+             "Women",
+             "Mothers",
+             "Sources",
+             "Specimens",
+             "Miniature books",
+             "Today's New International Version",
+             "Bibles - Living",
+             "Religious aspects",
+             "Teenage girls",
+             "Devotional literature",
+             "College students",
+             "Lutheran Church",
+             "Men",
+             "Church group work with men",
+             "Study skills",
+             "Children",
+             "Children's use",
+             "Blacks in the Bible",
+             "Religion / Bibles / King James",
+             "Bibles, english standard version, study",
+             "Faith",
+             "Theology",
+             "Bibles, contemporary english version, study",
+             "Chronology",
+             "Bible - Reference Editions",
+             "New International Version",
+             "Bible, versions",
+             "Bibles, other english translations, study",
+             "Bibles, new international version, youth & teen",
+             "Bibles, new king james version, youth & teen",
+             "Bibles, king james version, study",
+             "Bibles, christian standard bible, youth & teen",
+             "Spiritual life, christianity",
+             "Bibles, other english translations, youth & teen",
+             "Bible, study",
+             "Bibles, new international reader's version, study",
+             "Commentaires",
+             "Methodist Church",
+             "Holy Bible",
+             "study bible",
+             "Bibles, new revised standard version, study",
+             "BIBLES / New Revised Standard Version / Study",
+             "RELIGION / Biblical Criticism & Interpretation / General",
+             "Bibles, new king james version, study",
+             "Bibles, new american standard bible, study",
+             "New American Standard",
+             "Evidences, authority",
+             "Creationism",
+             "Bible - Evidences, authority",
+             "Bible - Study and teaching",
+             "Authority",
+             "Bibles, christian standard bible, reference",
+             "Christian leadership",
+             "Bibles, christian standard bible, study",
+             "Bibles, christian standard bible, general",
+             "Women in the Bible",
+             "Bibles, king james version, reference",
+             "Juvenile",
+             "Bibles - New Living Translation",
+             "Bible Study Guide",
+             "God, knowableness",
+             "Bibles, new living translation, study",
+             "Bible, criticism, interpretation, etc., n. t. epistles",
+             "Jerusalem",
+             "O.T.",
+             "Good News Translation",
+             "Sports",
+             "English Paraphrases",
+             "Paraphrases",
+             "Religion - Bibles - General",
+             "Bible - Stories - Old Testament",
+             "Paraphrases, English",
+             "Students",
+             "History of Biblical events",
+             "Children, religious life",
+             "Bible in literature",
+             "In literature",
+             "Bible, commentaries, o. t. apocrypha",
+             "Bibles, king james version, devotional",
+             "Reading",
+             "Bibles - New American",
+             "Characters",
+             "Characters and characteristics",
+             "Parenting",
+             "Moral and ethical aspects",
+             "Parents",
+             "Geography",
+             "Evidence",
+             "Apologetics",
+             "Missions",
+             "Bible., English. - Versions",
+             "Boys",
+             "Bible -- Study and teaching",
+             "African American families",
+             "Versiones",
+             "Indexes",
+             "Bibles - New International",
+             "Teenage boys",
+             "Bible, textbooks",
+             "Girls",
+             "Personal narratives",
+             "Pentecostalism",
+             "Episcopalians",
+             "Earthquakes",
+             "Youth",
+             "Personal Christian testimony & popular inspirational works",
+             "Reference",
+             "Deuterocanonieke boeken",
+             "Oude Testament",
+             "Nieuwe Testament",
+             "Bible. O.T. Apocrypha",
+             "Apocrypha",
+             "Critique, interprétation",
+             "Comentarios",
+             "Reader Development Collection",
+             "Bibles, god's word, text",
+             "Abridgements",
+             "God",
+             "Young's Literal Translation",
+             "Literal Translations",
+             "Literal Translation",
+             "Literal Bible",
+             "English Bible",
+             "Authorized Version",
+             "1611",
+             "King James Bible",
+             "New World",
+             "Psalters",
+             "collectionID:KellerChallenge",
+             "Bibles / King James Version / Study",
+             "Bibles, new american bible, text",
+             "Women Biblical scholars",
+             "collectionID:EanesChallenge",
+             "Bible - Versions",
+             "Étude et enseignement",
+             "Almanachs spirituels",
+             "Bibles, common english bible, general",
+             "Marketing",
+             "Forecasting",
+             "Twenty-first century",
+             "Forecasts",
+             "Bibles, new king james version, text",
+             "Bibles, new king james version, children",
+             "Bibles, international children's bible, children",
+             "Bibles, new century version, text",
+             "Bible, reading",
+             "Reference books",
+             "Women, religious life",
+             "Bibles, international children's bible, general",
+             "Bibles, king james version, youth & teen",
+             "Religion and theology",
+             "Children, juvenile literature",
+             "Bibles, new living translation, children",
+             "Livres en gros caractères",
+             "Large print books",
+             "Éditions de référence",
+             "Bible, illustrations",
+             "Bible, pictorial works",
+             "Luther",
+             "Bible, chronology",
+             "Bible, use",
+             "Quotations",
+             "Citations",
+             "BIBLES / King James Version / General",
+             "Englisch",
+             "Übersetzung",
+             "Kommentar",
+             "Ouvrages pour la jeunesse",
+             "Usage par les enfants",
+             "Holy books",
+             "Bibles, new revised standard version, new testament & portions",
+             "Environmental aspects",
+             "Green movement",
+             "Environmentalism",
+             "Adolescents",
+             "Vie religieuse",
+             "Bibles, new living translation, general",
+             "Bible-Catholic edition",
+             "Catholic-Bible",
+             "Doctrinal Theology",
+             "Families",
+             "Today's English",
+             "Holy Spirit",
+             "Saint-Esprit",
+             "Enseignement biblique",
+             "Protestant Versions",
+             "English Concordance",
+             "New International",
+             "Spiritual formation",
+             "Église catholique",
+             "Jeunesse catholique",
+             "Paraphrases anglaises",
+             "Christian men",
+             "Recovery",
+             "Old and new testament"
+          ],
+          "ia_collection":[
+             "Boston_College_Library",
+             "Princeton",
+             "PrincetonRR",
+             "Wellesley_College_Library",
+             "additional_collections",
+             "ambslibrary-ol",
+             "ambsplc",
+             "americana",
+             "americanuniversity-ol",
+             "bannedbooks",
+             "barryuniversity-ol",
+             "belmont-ol",
+             "binghamton-ol",
+             "blc",
+             "bostonpubliclibrary",
+             "bostonuniversitylibraries",
+             "bostonuniversitylibraries-ol",
+             "bplhoughton",
+             "bpljordan-ol",
+             "brigham_young_university",
+             "brighamyounguniversityhawaii",
+             "brynmawr-ol",
+             "calacademy-ol",
+             "californiastateuniversityfresno-ol",
+             "cardinalstritchuniversity__disabilityresources",
+             "cdl",
+             "china",
+             "cnusd-ol",
+             "cornell",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "delawarecountydistrictlibrary",
+             "delawarecountydistrictlibrary-ol",
+             "denverpubliclibrary-ol",
+             "drakeuniversity-ol",
+             "duke_libraries",
+             "dulds",
+             "europeanlibraries",
+             "fedlink",
+             "framingham-ol",
+             "getty",
+             "gettyphotographyincunabula",
+             "goffstownlibrary-ol",
+             "greatbooks",
+             "gutenberg",
+             "gwulibraries-ol",
+             "hamiltonpubliclibrary-ol",
+             "iacl",
+             "inlibrary",
+             "internetarchivebookdrive",
+             "internetarchivebooks",
+             "ithacacollege-ol",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "library_of_atlantis",
+             "library_of_congress",
+             "librarygenesis",
+             "marymount-ol",
+             "mavcor",
+             "medicalheritagelibrary",
+             "michigan_books",
+             "microfilm",
+             "miltonpubliclibrary-ol",
+             "occidentalcollegelibrary-ol",
+             "oliverwendellholmeslibrary",
+             "openlibrary-d-ol",
+             "palnilastcopies",
+             "phillipsacademy",
+             "pimslibrary",
+             "printdisabled",
+             "rachelmcbridelindsey",
+             "randolph-macon-college-ol",
+             "rcplondon",
+             "rhodescollege-ol",
+             "riceuniversity-ol",
+             "robarts",
+             "rochester-ol",
+             "saiacs-ol",
+             "schooloftheologybostonu",
+             "schroederlibrary-ol",
+             "smithsonian",
+             "smithsonianlibraries",
+             "spokanepubliclibrary-ol",
+             "stmaryscountylibrary",
+             "the-claremont-colleges-ol",
+             "theology",
+             "thomasfisher",
+             "thomasfishercanadiana",
+             "toronto",
+             "trent_university",
+             "trinitycollege",
+             "tulsacc-ol",
+             "ubclibrary",
+             "udc-ol",
+             "uhmauicollege-ol",
+             "ukmhl",
+             "unb-ol",
+             "uni-ol",
+             "university_of_alberta_libraries",
+             "university_of_alberta_libraries_microfilm",
+             "university_of_illinois_urbana-champaign",
+             "university_pittsburgh",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofoklahoma-ol",
+             "universityofthewest-ol",
+             "wellcomelibrary",
+             "wilsoncollege-ol",
+             "worthingtonlibraries-ol",
+             "yrlsc"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL39801839M",
+          "lending_identifier":"holybible0000unse_d3u7",
+          "authors":[
+             {
+                "key":"/authors/OL2745568A",
+                "name":"Bible"
+             }
+          ],
+          "first_publish_year":1200,
+          "ia":"holybible0000unse_d3u7",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"holybible0000unse_d3u7",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL17732W",
+             "openlibrary_edition":"OL39801839M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL71072W",
+          "title":"The Screwtape Letters",
+          "edition_count":88,
+          "cover_id":9184551,
+          "cover_edition_key":"OL24953413M",
+          "subject":[
+             "Fiction",
+             "Christian Apologetics",
+             "Devil",
+             "Aspect religieux",
+             "Christian life",
+             "Satire",
+             "Christianity",
+             "Démon",
+             "Vie chrétienne",
+             "Matérialisme",
+             "Christianisme",
+             "Materialism",
+             "Religious aspects",
+             "Satire anglaise",
+             "Christianity, 20th century",
+             "Christian ethics"
+          ],
+          "ia_collection":[
+             "Princeton",
+             "PrincetonRR",
+             "americana",
+             "china",
+             "inlibrary",
+             "internetarchivebooks",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "trent_university"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL6465638M",
+          "lending_identifier":"screwtapeletters0000lewi_g9r6",
+          "authors":[
+             {
+                "key":"/authors/OL31574A",
+                "name":"C. S. Lewis"
+             }
+          ],
+          "first_publish_year":1942,
+          "ia":"screwtapeletters0000lewi_g9r6",
+          "public_scan":false,
+          "has_fulltext":true,
+          "availability":{
+             "status":"borrow_available",
+             "available_to_browse":true,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":true,
+             "is_readable":false,
+             "is_lendable":true,
+             "is_previewable":true,
+             "identifier":"screwtapeletters0000lewi_g9r6",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL71072W",
+             "openlibrary_edition":"OL6465638M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":true,
+             "is_browseable":true,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL2899877W",
+          "title":"Orlando furioso",
+          "edition_count":68,
+          "cover_id":6972283,
+          "cover_edition_key":"OL5884597M",
+          "subject":[
+             "Roland (Legendary character)",
+             "Romances",
+             "Church of Ireland",
+             "Religion and ethics",
+             "History",
+             "History and criticism",
+             "Biography",
+             "Religious aspects",
+             "Satire",
+             "Christianity and literature",
+             "Religion",
+             "English Christian literature",
+             "English Satire",
+             "Irish Authors",
+             "Clergy",
+             "Kirche",
+             "Knights and knighthood",
+             "Poetry",
+             "Translations into Macedonian",
+             "Translations into Bulgarian",
+             "Roland (legendary character)"
+          ],
+          "ia_collection":[
+             "americana",
+             "belmont-ol",
+             "cdl",
+             "getty",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "librarygenesis",
+             "marymount-ol",
+             "printdisabled",
+             "robarts",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "trent_university"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL6573045M",
+          "lending_identifier":"orlandofuriosoin00ario",
+          "authors":[
+             {
+                "key":"/authors/OL441262A",
+                "name":"Lodovico Ariosto"
+             }
+          ],
+          "first_publish_year":1545,
+          "ia":"orlandofuriosoin00ario",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"orlandofuriosoin00ario",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL2899877W",
+             "openlibrary_edition":"OL6573045M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL1362905W",
+          "title":"Die protestantische Ethik und der Geist des Kapitalismus",
+          "edition_count":65,
+          "cover_id":5381835,
+          "cover_edition_key":"OL17730471M",
+          "subject":[
+             "Capitalism",
+             "Christian ethics",
+             "Christian sociology",
+             "Christianity",
+             "Christianity and economics",
+             "Economics",
+             "Protestant churches",
+             "Protestant work ethic",
+             "Protestantism",
+             "Protestantism and capitalism",
+             "Religion and sociology",
+             "Religious aspects of Capitalism",
+             "Religious aspects of Economics",
+             "Morale chrétienne",
+             "Calvinisme",
+             "Aspectos religiosos",
+             "Aspect religieux",
+             "Etica cristiana",
+             "Protestantisme",
+             "Sociologie religieuse",
+             "Iglesias protestantes",
+             "Ascétisme",
+             "Églises protestantes",
+             "Capitalisme",
+             "Capitalismo",
+             "Économie politique",
+             "Auteurs protestants",
+             "Sociología cristiana",
+             "Etica",
+             "Religiao",
+             "Religious aspects",
+             "mirror",
+             "pdf.yt",
+             "Nonfiction",
+             "Politics",
+             "Religion & Spirituality",
+             "Sociology",
+             "Work ethic",
+             "Protestants",
+             "Economic aspects",
+             "Religion",
+             "Aspect économique",
+             "Protestanisme",
+             "Christianisme",
+             "Sociologie",
+             "Aspect politique",
+             "Ethics"
+          ],
+          "ia_collection":[
+             "americana",
+             "americanuniversity-ol",
+             "binghamton-ol",
+             "cdl",
+             "china",
+             "cua-ol",
+             "framingham-ol",
+             "georgetown-university-law-library-ol",
+             "goffstownlibrary-ol",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "librarygenesis",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "rochester-ol",
+             "saiacs-ol",
+             "the-claremont-colleges-ol",
+             "udc-ol",
+             "unb-ol",
+             "uni-ol",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofoklahoma-ol",
+             "universityofthewest-ol",
+             "wilsoncollege-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL17967952M",
+          "lending_identifier":"protestantethics00webe",
+          "authors":[
+             {
+                "key":"/authors/OL139548A",
+                "name":"Max Weber"
+             },
+             {
+                "key":"/authors/OL2661178A",
+                "name":"Richard H. Tawney"
+             },
+             {
+                "key":"/authors/OL7208342A",
+                "name":"Max Weber"
+             }
+          ],
+          "first_publish_year":1930,
+          "ia":"protestantethics00webe",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"protestantethics00webe",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL1362905W",
+             "openlibrary_edition":"OL17967952M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL8379727W",
+          "title":"The greatest thing in the world",
+          "edition_count":53,
+          "cover_id":8242373,
+          "cover_edition_key":"OL25782719M",
+          "subject":[
+             "Bible",
+             "Catholic authors",
+             "Christian ethics",
+             "Christian life",
+             "Christianity",
+             "Commentaries",
+             "Criticism, interpretation",
+             "Devotional exercises",
+             "Love",
+             "Love (Theology)",
+             "Love (in theology)",
+             "Miniature books",
+             "Religious aspects",
+             "Religious aspects of Love",
+             "Specimens",
+             "Love, religious aspects, christianity",
+             "Love, religious aspects"
+          ],
+          "ia_collection":[
+             "additional_collections",
+             "americana",
+             "china",
+             "cornell",
+             "folkscanomy",
+             "folkscanomy_religion",
+             "inlibrary",
+             "internetarchivebooks",
+             "microfilm",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "robarts",
+             "toronto"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL7240133M",
+          "lending_identifier":"thegreatestthing00drumuoft",
+          "authors":[
+             {
+                "key":"/authors/OL2791618A",
+                "name":"Henry Drummond"
+             }
+          ],
+          "first_publish_year":1890,
+          "ia":"thegreatestthing00drumuoft",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"thegreatestthing00drumuoft",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL8379727W",
+             "openlibrary_edition":"OL7240133M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL4959706W",
+          "title":"Il Combattimento Spirituale",
+          "edition_count":51,
+          "cover_id":8246155,
+          "cover_edition_key":"OL26325883M",
+          "subject":[
+             "Asceticism",
+             "Care of the sick",
+             "Catholic Church",
+             "Catholic authors",
+             "Christian life",
+             "Doctrines",
+             "Early works to 1800",
+             "Orthodox Eastern Church",
+             "Perfection",
+             "Perfection (Catholic)",
+             "Religious aspects",
+             "Religious aspects of Care of the sick",
+             "Religious aspects of Perfection",
+             "Siritual life",
+             "Spiritual life",
+             "Christianity",
+             "Religion",
+             "Biography / Autobiography",
+             "Religious",
+             "Devotional literature",
+             "Orthodox Eastern church",
+             "Orthodox eastern church",
+             "Accessible book"
+          ],
+          "ia_collection":[
+             "additional_collections",
+             "catholictexts",
+             "inlibrary",
+             "internetarchivebooks",
+             "printdisabled"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL26325883M",
+          "lending_identifier":"CombattimentoSpirituale1594",
+          "authors":[
+             {
+                "key":"/authors/OL1070267A",
+                "name":"Lorenzo Scupoli"
+             },
+             {
+                "key":"/authors/OL2929661A",
+                "name":"Theophan the Recluse"
+             }
+          ],
+          "first_publish_year":1594,
+          "ia":"CombattimentoSpirituale1594",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"CombattimentoSpirituale1594",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL4959706W",
+             "openlibrary_edition":"OL26325883M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL3872066W",
+          "title":"A practical discourse concerning death",
+          "edition_count":47,
+          "cover_id":5962149,
+          "cover_edition_key":"OL14035253M",
+          "subject":[
+             "Biblical teaching",
+             "Christianity",
+             "Church of England",
+             "Death",
+             "Doctrinal Theology",
+             "Early works to 1800",
+             "Eschatology",
+             "Judgment Day",
+             "Religious aspects",
+             "Religious aspects of Death",
+             "Death, religious aspects",
+             "Christian life"
+          ],
+          "ia_collection":[
+             "americana",
+             "europeanlibraries",
+             "newyorkpubliclibrary"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":false,
+          "lending_edition":"OL14035253M",
+          "lending_identifier":"practicaldiscour00sher",
+          "authors":[
+             {
+                "key":"/authors/OL696996A",
+                "name":"William Sherlock"
+             }
+          ],
+          "first_publish_year":1689,
+          "ia":"practicaldiscour00sher",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"practicaldiscour00sher",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL3872066W",
+             "openlibrary_edition":"OL14035253M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL1671947W",
+          "title":"Token for children",
+          "edition_count":47,
+          "cover_id":5574088,
+          "cover_edition_key":"OL7046388M",
+          "subject":[
+             "Children",
+             "Biography",
+             "Early works to 1800",
+             "Conduct of life",
+             "Christian life",
+             "Religious life",
+             "Conversion to Christianity",
+             "Conversion",
+             "Hymns",
+             "Juvenile literature",
+             "Doctrines",
+             "Poetry",
+             "Puritans",
+             "Death",
+             "Christian biography",
+             "Religious aspects",
+             "Christianity",
+             "Sunday school literature",
+             "Juvenile fiction",
+             "Christian literature for children",
+             "Salvation",
+             "General",
+             "Religion"
+          ],
+          "ia_collection":[
+             "americana",
+             "bostonpubliclibrary",
+             "cdl",
+             "iacl",
+             "inlibrary",
+             "internetarchivebooks",
+             "printdisabled",
+             "yrlsc"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL7046388M",
+          "lending_identifier":"tokenforchildren00janeiala",
+          "authors":[
+             {
+                "key":"/authors/OL188218A",
+                "name":"James Janeway"
+             },
+             {
+                "key":"/authors/OL2689588A",
+                "name":"Cotton Mather"
+             }
+          ],
+          "first_publish_year":1636,
+          "ia":"tokenforchildren00janeiala",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"tokenforchildren00janeiala",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL1671947W",
+             "openlibrary_edition":"OL7046388M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL742115W",
+          "title":"Revelations of divine love, recorded by Julian, anchoress at Norwich, A.D. 1373",
+          "edition_count":45,
+          "cover_id":8242954,
+          "cover_edition_key":"OL6017202M",
+          "subject":[
+             "Devotional literature, English (Middle)",
+             "Devotional literature",
+             "Mysticism",
+             "History",
+             "Sources",
+             "Meditations",
+             "Religious aspects of Love",
+             "Private revelations",
+             "Christianity",
+             "Love",
+             "English",
+             "Prayers and devotions",
+             "Christian life",
+             "Prayer-books and devotions",
+             "English (Middle English)",
+             "Grammar",
+             "English language",
+             "Modrnized versions",
+             "Medieval Manuscripts",
+             "Christian mysticism",
+             "Other prose: classical, early & medieval",
+             "Roman Catholicism, Roman Catholic Church",
+             "Women's studies",
+             "Religious aspects",
+             "Medieval Church (476-1517)",
+             "History - General History",
+             "Literary Criticism",
+             "England",
+             "Medieval",
+             "Women Authors",
+             "History of religion",
+             "Religion / History",
+             "Middle Ages, 600-1500",
+             "Saints & hagiography",
+             "Religion - Inspirational/Spirituality",
+             "Religion",
+             "Theosophy",
+             "Christianity - History - General",
+             "Devotional",
+             "Devotional literature, English",
+             "Middle Ages",
+             "Julian, of norwich, 1343-",
+             "English literature (collections)",
+             "Fiction, general",
+             "Mysticism, history",
+             "Love, religious aspects, christianity",
+             "Mysticism, great britain",
+             "English Devotional literature",
+             "Spirituality",
+             "Mythology, classical"
+          ],
+          "ia_collection":[
+             "additional_collections",
+             "ambslibrary-ol",
+             "americana",
+             "americanuniversity-ol",
+             "barryuniversity-ol",
+             "belmont-ol",
+             "binghamton-ol",
+             "bostonuniversitylibraries-ol",
+             "china",
+             "cua-ol",
+             "dartmouthlibrary-ol",
+             "folkscanomy",
+             "folkscanomy_miscellaneous",
+             "gwulibraries-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "kalamazoocollege-ol",
+             "librarygenesis",
+             "marymount-ol",
+             "occidentalcollegelibrary-ol",
+             "openlibrary-d-ol",
+             "printdisabled",
+             "randolph-macon-college-ol",
+             "regislibrary",
+             "riceuniversity-ol",
+             "rochester-ol",
+             "saiacs-ol",
+             "the-claremont-colleges-ol",
+             "toronto",
+             "unb-ol",
+             "uni-ol",
+             "universityofarizona-ol",
+             "universityofcoloradoboulder-ol",
+             "universityofthewest-ol",
+             "wilsoncollege-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL25880440M",
+          "lending_identifier":"RevelationsOfDivineLove",
+          "authors":[
+             {
+                "key":"/authors/OL7275697A",
+                "name":"Julian, of Norwich, 1343-"
+             },
+             {
+                "key":"/authors/OL7275698A",
+                "name":"Warrack, Grace Harriet, 1855-1932"
+             },
+             {
+                "key":"/authors/OL2070244A",
+                "name":"Julian"
+             },
+             {
+                "key":"/authors/OL60439A",
+                "name":"Julian of Norwich"
+             },
+             {
+                "key":"/authors/OL832118A",
+                "name":"Frances Beer"
+             },
+             {
+                "key":"/authors/OL1966826A",
+                "name":"Edmund Colledge"
+             },
+             {
+                "key":"/authors/OL2790446A",
+                "name":"James Walsh"
+             },
+             {
+                "key":"/authors/OL129198A",
+                "name":"Jean Leclercq"
+             },
+             {
+                "key":"/authors/OL2466677A",
+                "name":"John Skinner"
+             }
+          ],
+          "first_publish_year":1901,
+          "ia":"RevelationsOfDivineLove",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"RevelationsOfDivineLove",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL742115W",
+             "openlibrary_edition":"OL25880440M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL1794343W",
+          "title":"Rule and exercises of holy living",
+          "edition_count":40,
+          "cover_id":5963768,
+          "cover_edition_key":"OL14040219M",
+          "subject":[
+             "Anglican authors",
+             "Christian life",
+             "Christianity",
+             "Death",
+             "Devotional exercises",
+             "Early works to 1800",
+             "Prayers",
+             "Religious aspects",
+             "Religious aspects of Death",
+             "Spiritual life",
+             "Prayer books and devotions",
+             "Biblical teaching",
+             "Sick",
+             "Christian life, anglican authors",
+             "Death, religious aspects"
+          ],
+          "ia_collection":[
+             "Princeton",
+             "americana",
+             "binghamton-ol",
+             "blc",
+             "cdl",
+             "china",
+             "cua-ol",
+             "inlibrary",
+             "internetarchivebooks",
+             "johnshopkins-ol",
+             "printdisabled",
+             "rochester-ol",
+             "trent_university",
+             "uconn_libraries",
+             "universityofarizona-ol",
+             "universityofoklahoma-ol"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL14040219M",
+          "lending_identifier":"ruleexercisesofh00tayl",
+          "authors":[
+             {
+                "key":"/authors/OL215672A",
+                "name":"Taylor, Jeremy"
+             }
+          ],
+          "first_publish_year":1650,
+          "ia":"ruleexercisesofh00tayl",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"ruleexercisesofh00tayl",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL1794343W",
+             "openlibrary_edition":"OL14040219M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL267184W",
+          "title":"The Kingdom of God Is Within You",
+          "edition_count":39,
+          "cover_id":767594,
+          "cover_edition_key":"OL8536690M",
+          "subject":[
+             "Art",
+             "Art and morals",
+             "Christianity",
+             "Church history",
+             "Controversial literature",
+             "Essence, genius, nature",
+             "Evil, Non-resistance to",
+             "Evil, Non-resistance to.",
+             "Kingdom of God",
+             "Nonviolence",
+             "Religion",
+             "Religious aspects",
+             "Religious aspects of Nonviolence",
+             "Religious aspects of Resistance to government",
+             "Religious aspects of War",
+             "Resistance to Government",
+             "War",
+             "Christian anarchism",
+             "Christianity, 19th century",
+             "Evil, non-resistance to",
+             "Christianisme",
+             "Essence, esprit, nature",
+             "Ouvrages de controverse",
+             "Non-résistance au mal",
+             "Christianity, controversial literature",
+             "Christianity, essence, genius, nature",
+             "Government, resistance to"
+          ],
+          "ia_collection":[
+             "community",
+             "inlibrary",
+             "internetarchivebooks",
+             "librarygenesis",
+             "opensource",
+             "printdisabled"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":true,
+          "lending_edition":"OL25358735M",
+          "lending_identifier":"TheKingdomOfGodIsWithinYou",
+          "authors":[
+             {
+                "key":"/authors/OL26783A",
+                "name":"Lev Nikolaevič Tolstoy"
+             }
+          ],
+          "first_publish_year":1894,
+          "ia":"TheKingdomOfGodIsWithinYou",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"TheKingdomOfGodIsWithinYou",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL267184W",
+             "openlibrary_edition":"OL25358735M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       },
+       {
+          "key":"/works/OL1636092W",
+          "title":"The dairyman's daughter",
+          "edition_count":38,
+          "cover_id":1759510,
+          "cover_edition_key":"OL9368949M",
+          "subject":[
+             "Cherokee language",
+             "Christian life",
+             "Conversion",
+             "History",
+             "Methodists",
+             "Religion",
+             "Religious aspects",
+             "Texts",
+             "Tracts",
+             "United States Civil War, 1861-1865",
+             "Accessible book"
+          ],
+          "ia_collection":[
+             "americana",
+             "cdl"
+          ],
+          "lendinglibrary":false,
+          "printdisabled":false,
+          "lending_edition":"OL7239166M",
+          "lending_identifier":"dairymansdaughte00rich",
+          "authors":[
+             {
+                "key":"/authors/OL182070A",
+                "name":"Legh Richmond"
+             }
+          ],
+          "first_publish_year":1800,
+          "ia":"dairymansdaughte00rich",
+          "public_scan":true,
+          "has_fulltext":true,
+          "availability":{
+             "status":"open",
+             "available_to_browse":false,
+             "available_to_borrow":false,
+             "available_to_waitlist":false,
+             "is_printdisabled":false,
+             "is_readable":true,
+             "is_lendable":false,
+             "is_previewable":true,
+             "identifier":"dairymansdaughte00rich",
+             "isbn":null,
+             "oclc":null,
+             "openlibrary_work":"OL1636092W",
+             "openlibrary_edition":"OL7239166M",
+             "last_loan_date":null,
+             "num_waitlist":null,
+             "last_waitlist_date":null,
+             "is_restricted":false,
+             "is_browseable":false,
+             "__src__":"core.models.lending.get_availability"
+          }
+       }
+    ],
+    "ebook_count":14071,
+    "subjects":[
+       {
+          "key":"/subjects/accessible_book",
+          "name":"Accessible book",
+          "count":11302
+       },
+       {
+          "key":"/subjects/christianity",
+          "name":"Christianity",
+          "count":11013
+       },
+       {
+          "key":"/subjects/protected_daisy",
+          "name":"Protected DAISY",
+          "count":8775
+       },
+       {
+          "key":"/subjects/history",
+          "name":"History",
+          "count":6385
+       },
+       {
+          "key":"/subjects/catholic_church",
+          "name":"Catholic Church",
+          "count":3413
+       },
+       {
+          "key":"/subjects/religion",
+          "name":"Religion",
+          "count":3363
+       },
+       {
+          "key":"/subjects/islam",
+          "name":"Islam",
+          "count":3049
+       },
+       {
+          "key":"/subjects/religious_life",
+          "name":"Religious life",
+          "count":1819
+       },
+       {
+          "key":"/subjects/early_works_to_1800",
+          "name":"Early works to 1800",
+          "count":1727
+       },
+       {
+          "key":"/subjects/aspect_religieux",
+          "name":"Aspect religieux",
+          "count":1609
+       },
+       {
+          "key":"/subjects/bible",
+          "name":"Bible",
+          "count":1506
+       },
+       {
+          "key":"/subjects/christian_life",
+          "name":"Christian life",
+          "count":1498
+       },
+       {
+          "key":"/subjects/spiritual_life",
+          "name":"Spiritual life",
+          "count":1402
+       },
+       {
+          "key":"/subjects/doctrines",
+          "name":"Doctrines",
+          "count":1284
+       },
+       {
+          "key":"/subjects/death",
+          "name":"Death",
+          "count":1267
+       },
+       {
+          "key":"/subjects/sources",
+          "name":"Sources",
+          "count":1236
+       },
+       {
+          "key":"/subjects/marriage",
+          "name":"Marriage",
+          "count":1209
+       },
+       {
+          "key":"/subjects/judaism",
+          "name":"Judaism",
+          "count":1190
+       },
+       {
+          "key":"/subjects/church_and_state",
+          "name":"Church and state",
+          "count":1153
+       },
+       {
+          "key":"/subjects/moral_and_ethical_aspects",
+          "name":"Moral and ethical aspects",
+          "count":1089
+       },
+       {
+          "key":"/subjects/sex",
+          "name":"Sex",
+          "count":1006
+       },
+       {
+          "key":"/subjects/religious_aspects_of_marriage",
+          "name":"Religious aspects of Marriage",
+          "count":991
+       },
+       {
+          "key":"/subjects/war",
+          "name":"War",
+          "count":984
+       },
+       {
+          "key":"/subjects/philosophy",
+          "name":"Philosophy",
+          "count":912
+       }
+    ],
+    "places":[
+       {
+          "key":"/subjects/place:united_states",
+          "name":"United States",
+          "count":2452
+       },
+       {
+          "key":"/subjects/place:france",
+          "name":"France",
+          "count":1783
+       },
+       {
+          "key":"/subjects/place:confederate_states_of_america",
+          "name":"Confederate States of America",
+          "count":601
+       },
+       {
+          "key":"/subjects/place:germany",
+          "name":"Germany",
+          "count":402
+       },
+       {
+          "key":"/subjects/place:india",
+          "name":"India",
+          "count":346
+       },
+       {
+          "key":"/subjects/place:islamic_countries",
+          "name":"Islamic countries",
+          "count":282
+       },
+       {
+          "key":"/subjects/place:japan",
+          "name":"Japan",
+          "count":282
+       },
+       {
+          "key":"/subjects/place:europe",
+          "name":"Europe",
+          "count":250
+       },
+       {
+          "key":"/subjects/place:great_britain",
+          "name":"Great Britain",
+          "count":224
+       },
+       {
+          "key":"/subjects/place:spain",
+          "name":"Spain",
+          "count":214
+       },
+       {
+          "key":"/subjects/place:china",
+          "name":"China",
+          "count":207
+       },
+       {
+          "key":"/subjects/place:england",
+          "name":"England",
+          "count":187
+       },
+       {
+          "key":"/subjects/place:egypt",
+          "name":"Egypt",
+          "count":168
+       },
+       {
+          "key":"/subjects/place:israel",
+          "name":"Israel",
+          "count":157
+       },
+       {
+          "key":"/subjects/place:italy",
+          "name":"Italy",
+          "count":156
+       },
+       {
+          "key":"/subjects/place:africa",
+          "name":"Africa",
+          "count":148
+       },
+       {
+          "key":"/subjects/place:south_africa",
+          "name":"South Africa",
+          "count":137
+       },
+       {
+          "key":"/subjects/place:mexico",
+          "name":"Mexico",
+          "count":125
+       },
+       {
+          "key":"/subjects/place:indonesia",
+          "name":"Indonesia",
+          "count":118
+       },
+       {
+          "key":"/subjects/place:brazil",
+          "name":"Brazil",
+          "count":116
+       },
+       {
+          "key":"/subjects/place:arab_countries",
+          "name":"Arab countries",
+          "count":111
+       },
+       {
+          "key":"/subjects/place:turkey",
+          "name":"Turkey",
+          "count":108
+       },
+       {
+          "key":"/subjects/place:poland",
+          "name":"Poland",
+          "count":107
+       },
+       {
+          "key":"/subjects/place:canada",
+          "name":"Canada",
+          "count":105
+       },
+       {
+          "key":"/subjects/place:middle_east",
+          "name":"Middle East",
+          "count":104
+       }
+    ],
+    "people":[
+       {
+          "key":"/subjects/person:jesus_christ",
+          "name":"Jesus Christ",
+          "count":313
+       },
+       {
+          "key":"/subjects/person:thomas_aquinas_saint_(1225-1274)",
+          "name":"Thomas Aquinas, Saint (1225?-1274)",
+          "count":66
+       },
+       {
+          "key":"/subjects/person:augustine_saint_bishop_of_hippo",
+          "name":"Augustine Saint, Bishop of Hippo",
+          "count":61
+       },
+       {
+          "key":"/subjects/person:mary_blessed_virgin_saint",
+          "name":"Mary Blessed Virgin, Saint",
+          "count":46
+       },
+       {
+          "key":"/subjects/person:charles_darwin_(1809-1882)",
+          "name":"Charles Darwin (1809-1882)",
+          "count":38
+       },
+       {
+          "key":"/subjects/person:martin_luther_(1483-1546)",
+          "name":"Martin Luther (1483-1546)",
+          "count":38
+       },
+       {
+          "key":"/subjects/person:muḥammad_prophet_(d._632)",
+          "name":"Muḥammad Prophet (d. 632)",
+          "count":38
+       },
+       {
+          "key":"/subjects/person:john_paul_ii_pope_(1920-2005)",
+          "name":"John Paul II Pope (1920-2005)",
+          "count":33
+       },
+       {
+          "key":"/subjects/person:paul_the_apostle_saint",
+          "name":"Paul the Apostle, Saint",
+          "count":27
+       },
+       {
+          "key":"/subjects/person:søren_kierkegaard_(1813-1855)",
+          "name":"Søren Kierkegaard (1813-1855)",
+          "count":26
+       },
+       {
+          "key":"/subjects/person:karl_barth_(1886-1968)",
+          "name":"Karl Barth (1886-1968)",
+          "count":25
+       },
+       {
+          "key":"/subjects/person:ignatius_of_loyola_saint_(1491-1556)",
+          "name":"Ignatius of Loyola, Saint (1491-1556)",
+          "count":24
+       },
+       {
+          "key":"/subjects/person:osama_bin_laden_(1957-)",
+          "name":"Osama Bin Laden (1957-)",
+          "count":23
+       },
+       {
+          "key":"/subjects/person:john_henry_newman_(1801-1890)",
+          "name":"John Henry Newman (1801-1890)",
+          "count":21
+       },
+       {
+          "key":"/subjects/person:pius_xii_pope_(1876-1958)",
+          "name":"Pius XII Pope (1876-1958)",
+          "count":21
+       },
+       {
+          "key":"/subjects/person:paul_tillich_(1886-1965)",
+          "name":"Paul Tillich (1886-1965)",
+          "count":20
+       },
+       {
+          "key":"/subjects/person:jean_calvin_(1509-1564)",
+          "name":"Jean Calvin (1509-1564)",
+          "count":19
+       },
+       {
+          "key":"/subjects/person:c._g._jung_(1875-1961)",
+          "name":"C. G. Jung (1875-1961)",
+          "count":17
+       },
+       {
+          "key":"/subjects/person:max_weber_(1864-1920)",
+          "name":"Max Weber (1864-1920)",
+          "count":17
+       },
+       {
+          "key":"/subjects/person:francis_of_assisi_saint_(1182-1226)",
+          "name":"Francis of Assisi, Saint (1182-1226)",
+          "count":16
+       },
+       {
+          "key":"/subjects/person:rené_girard_(1923-)",
+          "name":"René Girard (1923-)",
+          "count":15
+       },
+       {
+          "key":"/subjects/person:teresa_of_avila_saint_(1515-1582)",
+          "name":"Teresa of Avila, Saint (1515-1582)",
+          "count":15
+       },
+       {
+          "key":"/subjects/person:moses_(biblical_leader)",
+          "name":"Moses (Biblical leader)",
+          "count":14
+       },
+       {
+          "key":"/subjects/person:william_shakespeare_(1564-1616)",
+          "name":"William Shakespeare (1564-1616)",
+          "count":14
+       },
+       {
+          "key":"/subjects/person:friedrich_schleiermacher_(1768-1834)",
+          "name":"Friedrich Schleiermacher (1768-1834)",
+          "count":13
+       }
+    ],
+    "times":[
+       {
+          "key":"/subjects/time:revolution_1789-1799",
+          "name":"Revolution, 1789-1799",
+          "count":1441
+       },
+       {
+          "key":"/subjects/time:20th_century",
+          "name":"20th century",
+          "count":1064
+       },
+       {
+          "key":"/subjects/time:civil_war_1861-1865",
+          "name":"Civil War, 1861-1865",
+          "count":780
+       },
+       {
+          "key":"/subjects/time:19th_century",
+          "name":"19th century",
+          "count":326
+       },
+       {
+          "key":"/subjects/time:18th_century",
+          "name":"18th century",
+          "count":316
+       },
+       {
+          "key":"/subjects/time:middle_ages_600-1500",
+          "name":"Middle Ages, 600-1500",
+          "count":164
+       },
+       {
+          "key":"/subjects/time:early_church_ca._30-600",
+          "name":"Early church, ca. 30-600",
+          "count":152
+       },
+       {
+          "key":"/subjects/time:17th_century",
+          "name":"17th century",
+          "count":147
+       },
+       {
+          "key":"/subjects/time:16th_century",
+          "name":"16th century",
+          "count":124
+       },
+       {
+          "key":"/subjects/time:21st_century",
+          "name":"21st century",
+          "count":124
+       },
+       {
+          "key":"/subjects/time:revolution_1775-1783",
+          "name":"Revolution, 1775-1783",
+          "count":102
+       },
+       {
+          "key":"/subjects/time:civil_war_1936-1939",
+          "name":"Civil War, 1936-1939",
+          "count":99
+       },
+       {
+          "key":"/subjects/time:to_1500",
+          "name":"To 1500",
+          "count":82
+       },
+       {
+          "key":"/subjects/time:1789-1799",
+          "name":"1789-1799",
+          "count":57
+       },
+       {
+          "key":"/subjects/time:1960-",
+          "name":"1960-",
+          "count":51
+       },
+       {
+          "key":"/subjects/time:1933-1945",
+          "name":"1933-1945",
+          "count":50
+       },
+       {
+          "key":"/subjects/time:1945-",
+          "name":"1945-",
+          "count":39
+       },
+       {
+          "key":"/subjects/time:primitive_and_early_church_ca._30-600",
+          "name":"Primitive and early church, ca. 30-600",
+          "count":39
+       },
+       {
+          "key":"/subjects/time:medieval_500-1500",
+          "name":"Medieval, 500-1500",
+          "count":33
+       },
+       {
+          "key":"/subjects/time:revolution_1979",
+          "name":"Revolution, 1979",
+          "count":31
+       },
+       {
+          "key":"/subjects/time:early_modern_1500-1700",
+          "name":"Early modern, 1500-1700",
+          "count":24
+       },
+       {
+          "key":"/subjects/time:revolution_1918-1923",
+          "name":"Revolution, 1918-1923",
+          "count":23
+       },
+       {
+          "key":"/subjects/time:reign_of_terror_1793-1794",
+          "name":"Reign of Terror, 1793-1794",
+          "count":22
+       },
+       {
+          "key":"/subjects/time:1989-",
+          "name":"1989-",
+          "count":21
+       },
+       {
+          "key":"/subjects/time:987-1515",
+          "name":"987-1515",
+          "count":20
+       }
+    ],
+    "authors":[
+       {
+          "name":"Bhagwan Rajneesh",
+          "key":"/authors/OL193029A",
+          "count":30
+       },
+       {
+          "name":"Fauchet, Claude",
+          "key":"/authors/OL2398490A",
+          "count":23
+       },
+       {
+          "name":"Catholic Church. Pope (1775-1799 : Pius VI)",
+          "key":"/authors/OL7216994A",
+          "count":23
+       },
+       {
+          "name":"William L. Coleman",
+          "key":"/authors/OL220972A",
+          "count":22
+       },
+       {
+          "name":"Henri J. M. Nouwen",
+          "key":"/authors/OL229188A",
+          "count":21
+       },
+       {
+          "name":"ʻAbd Allāh ibn Muḥammad Ibn Abī al-Dunyā",
+          "key":"/authors/OL573320A",
+          "count":20
+       },
+       {
+          "name":"Stephen Arterburn",
+          "key":"/authors/OL194465A",
+          "count":19
+       },
+       {
+          "name":"Maximilien Robespierre",
+          "key":"/authors/OL350724A",
+          "count":19
+       },
+       {
+          "name":"Souran Mardini",
+          "key":"/authors/OL8728495A",
+          "count":19
+       },
+       {
+          "name":"Robert Harold Schuller",
+          "key":"/authors/OL255779A",
+          "count":18
+       },
+       {
+          "name":"Pope Pius XII",
+          "key":"/authors/OL129088A",
+          "count":17
+       },
+       {
+          "name":"Les Carter",
+          "key":"/authors/OL194466A",
+          "count":17
+       },
+       {
+          "name":"Harold George Koenig",
+          "key":"/authors/OL230250A",
+          "count":17
+       },
+       {
+          "name":"Henri Gre goire",
+          "key":"/authors/OL7287463A",
+          "count":16
+       },
+       {
+          "name":"Henri Jabineau",
+          "key":"/authors/OL7361096A",
+          "count":16
+       },
+       {
+          "name":"France. Sovereign (1774-1792 : Louis XVI)",
+          "key":"/authors/OL1422878A",
+          "count":15
+       },
+       {
+          "name":"Mircea Eliade",
+          "key":"/authors/OL1794738A",
+          "count":15
+       },
+       {
+          "name":"Florence Littauer",
+          "key":"/authors/OL217513A",
+          "count":15
+       },
+       {
+          "name":"Jürgen Moltmann",
+          "key":"/authors/OL219740A",
+          "count":15
+       },
+       {
+          "name":"14th Dalai Lama",
+          "key":"/authors/OL2886A",
+          "count":15
+       },
+       {
+          "name":"Minot J. Savage",
+          "key":"/authors/OL317512A",
+          "count":15
+       },
+       {
+          "name":"Adi Da Samraj",
+          "key":"/authors/OL35763A",
+          "count":15
+       },
+       {
+          "name":"Ellen Gould Harmon White",
+          "key":"/authors/OL225992A",
+          "count":14
+       },
+       {
+          "name":"Eugen Drewermann",
+          "key":"/authors/OL362802A",
+          "count":14
+       },
+       {
+          "name":"Deepak Chopra",
+          "key":"/authors/OL39038A",
+          "count":14
+       }
+    ],
+    "publishers":[
+       {
+          "name":"Sine nomine",
+          "count":1130,
+          "key":"/publishers/Sine_nomine"
+       },
+       {
+          "name":"Oxford University Press",
+          "count":314,
+          "key":"/publishers/Oxford_University_Press"
+       },
+       {
+          "name":"Taylor & Francis Group",
+          "count":256,
+          "key":"/publishers/Taylor_&_Francis_Group"
+       },
+       {
+          "name":"Routledge",
+          "count":217,
+          "key":"/publishers/Routledge"
+       },
+       {
+          "name":"Paulist Press",
+          "count":209,
+          "key":"/publishers/Paulist_Press"
+       },
+       {
+          "name":"Wipf & Stock Publishers",
+          "count":187,
+          "key":"/publishers/Wipf_&_Stock_Publishers"
+       },
+       {
+          "name":"Fortress Press",
+          "count":165,
+          "key":"/publishers/Fortress_Press"
+       },
+       {
+          "name":"P. Lang",
+          "count":163,
+          "key":"/publishers/P._Lang"
+       },
+       {
+          "name":"Zondervan",
+          "count":162,
+          "key":"/publishers/Zondervan"
+       },
+       {
+          "name":"Abingdon Press",
+          "count":156,
+          "key":"/publishers/Abingdon_Press"
+       },
+       {
+          "name":"Lit",
+          "count":154,
+          "key":"/publishers/Lit"
+       },
+       {
+          "name":"Cambridge University Press",
+          "count":151,
+          "key":"/publishers/Cambridge_University_Press"
+       },
+       {
+          "name":"Palgrave Macmillan",
+          "count":144,
+          "key":"/publishers/Palgrave_Macmillan"
+       },
+       {
+          "name":"University Press of America",
+          "count":144,
+          "key":"/publishers/University_Press_of_America"
+       },
+       {
+          "name":"Harper & Row",
+          "count":141,
+          "key":"/publishers/Harper_&_Row"
+       },
+       {
+          "name":"De l'Imprimerie nationale",
+          "count":140,
+          "key":"/publishers/De_l'Imprimerie_nationale"
+       },
+       {
+          "name":"Harvest House Publishers",
+          "count":139,
+          "key":"/publishers/Harvest_House_Publishers"
+       },
+       {
+          "name":"InterVarsity Press",
+          "count":139,
+          "key":"/publishers/InterVarsity_Press"
+       },
+       {
+          "name":"Orbis Books",
+          "count":139,
+          "key":"/publishers/Orbis_Books"
+       },
+       {
+          "name":"Herder",
+          "count":130,
+          "key":"/publishers/Herder"
+       },
+       {
+          "name":"Thomas Nelson",
+          "count":127,
+          "key":"/publishers/Thomas_Nelson"
+       },
+       {
+          "name":"Baker Books",
+          "count":111,
+          "key":"/publishers/Baker_Books"
+       },
+       {
+          "name":"Macmillan",
+          "count":109,
+          "key":"/publishers/Macmillan"
+       },
+       {
+          "name":"Zondervan Pub. House",
+          "count":109,
+          "key":"/publishers/Zondervan_Pub._House"
+       },
+       {
+          "name":"SCM Press",
+          "count":108,
+          "key":"/publishers/SCM_Press"
+       }
+    ],
+    "languages":[
+       {
+          "name":"eng",
+          "count":24560
+       },
+       {
+          "name":"fre",
+          "count":3474
+       },
+       {
+          "name":"ger",
+          "count":3137
+       },
+       {
+          "name":"ara",
+          "count":1930
+       },
+       {
+          "name":"spa",
+          "count":1254
+       },
+       {
+          "name":"ita",
+          "count":858
+       },
+       {
+          "name":"jpn",
+          "count":497
+       },
+       {
+          "name":"heb",
+          "count":458
+       },
+       {
+          "name":"rus",
+          "count":378
+       },
+       {
+          "name":"chi",
+          "count":274
+       },
+       {
+          "name":"dut",
+          "count":261
+       },
+       {
+          "name":"pol",
+          "count":240
+       },
+       {
+          "name":"por",
+          "count":233
+       },
+       {
+          "name":"kor",
+          "count":220
+       },
+       {
+          "name":"urd",
+          "count":161
+       },
+       {
+          "name":"tur",
+          "count":150
+       },
+       {
+          "name":"lat",
+          "count":136
+       },
+       {
+          "name":"ind",
+          "count":128
+       },
+       {
+          "name":"per",
+          "count":111
+       },
+       {
+          "name":"und",
+          "count":107
+       },
+       {
+          "name":"hin",
+          "count":81
+       },
+       {
+          "name":"swe",
+          "count":72
+       },
+       {
+          "name":"tha",
+          "count":68
+       },
+       {
+          "name":"tib",
+          "count":58
+       },
+       {
+          "name":"hun",
+          "count":46
+       }
+    ],
+    "publishing_history":[
+       [
+          1200,
+          1
+       ],
+       [
+          1400,
+          1
+       ],
+       [
+          1491,
+          1
+       ],
+       [
+          1495,
+          1
+       ],
+       [
+          1497,
+          1
+       ],
+       [
+          1505,
+          1
+       ],
+       [
+          1508,
+          1
+       ],
+       [
+          1509,
+          1
+       ],
+       [
+          1519,
+          2
+       ],
+       [
+          1525,
+          1
+       ],
+       [
+          1531,
+          1
+       ],
+       [
+          1532,
+          1
+       ],
+       [
+          1535,
+          2
+       ],
+       [
+          1537,
+          1
+       ],
+       [
+          1545,
+          2
+       ],
+       [
+          1546,
+          1
+       ],
+       [
+          1548,
+          1
+       ],
+       [
+          1549,
+          2
+       ],
+       [
+          1550,
+          1
+       ],
+       [
+          1553,
+          1
+       ],
+       [
+          1556,
+          3
+       ],
+       [
+          1558,
+          1
+       ],
+       [
+          1559,
+          1
+       ],
+       [
+          1563,
+          1
+       ],
+       [
+          1565,
+          1
+       ],
+       [
+          1567,
+          1
+       ],
+       [
+          1571,
+          2
+       ],
+       [
+          1572,
+          1
+       ],
+       [
+          1573,
+          1
+       ],
+       [
+          1574,
+          1
+       ],
+       [
+          1575,
+          2
+       ],
+       [
+          1576,
+          2
+       ],
+       [
+          1577,
+          1
+       ],
+       [
+          1578,
+          3
+       ],
+       [
+          1579,
+          1
+       ],
+       [
+          1580,
+          3
+       ],
+       [
+          1581,
+          3
+       ],
+       [
+          1582,
+          1
+       ],
+       [
+          1585,
+          2
+       ],
+       [
+          1587,
+          2
+       ],
+       [
+          1589,
+          5
+       ],
+       [
+          1590,
+          1
+       ],
+       [
+          1594,
+          1
+       ],
+       [
+          1595,
+          3
+       ],
+       [
+          1597,
+          1
+       ],
+       [
+          1598,
+          1
+       ],
+       [
+          1599,
+          2
+       ],
+       [
+          1600,
+          1
+       ],
+       [
+          1603,
+          4
+       ],
+       [
+          1604,
+          1
+       ],
+       [
+          1606,
+          2
+       ],
+       [
+          1607,
+          3
+       ],
+       [
+          1608,
+          1
+       ],
+       [
+          1609,
+          3
+       ],
+       [
+          1610,
+          2
+       ],
+       [
+          1611,
+          2
+       ],
+       [
+          1612,
+          1
+       ],
+       [
+          1613,
+          4
+       ],
+       [
+          1614,
+          1
+       ],
+       [
+          1615,
+          2
+       ],
+       [
+          1616,
+          2
+       ],
+       [
+          1617,
+          3
+       ],
+       [
+          1618,
+          1
+       ],
+       [
+          1619,
+          1
+       ],
+       [
+          1620,
+          6
+       ],
+       [
+          1621,
+          2
+       ],
+       [
+          1622,
+          4
+       ],
+       [
+          1623,
+          3
+       ],
+       [
+          1624,
+          1
+       ],
+       [
+          1625,
+          6
+       ],
+       [
+          1627,
+          4
+       ],
+       [
+          1628,
+          6
+       ],
+       [
+          1629,
+          3
+       ],
+       [
+          1630,
+          4
+       ],
+       [
+          1631,
+          2
+       ],
+       [
+          1632,
+          4
+       ],
+       [
+          1633,
+          5
+       ],
+       [
+          1634,
+          6
+       ],
+       [
+          1635,
+          3
+       ],
+       [
+          1636,
+          6
+       ],
+       [
+          1637,
+          8
+       ],
+       [
+          1638,
+          2
+       ],
+       [
+          1639,
+          6
+       ],
+       [
+          1640,
+          4
+       ],
+       [
+          1641,
+          4
+       ],
+       [
+          1642,
+          2
+       ],
+       [
+          1643,
+          8
+       ],
+       [
+          1644,
+          5
+       ],
+       [
+          1645,
+          2
+       ],
+       [
+          1646,
+          3
+       ],
+       [
+          1647,
+          4
+       ],
+       [
+          1648,
+          5
+       ],
+       [
+          1649,
+          14
+       ],
+       [
+          1650,
+          4
+       ],
+       [
+          1651,
+          9
+       ],
+       [
+          1652,
+          7
+       ],
+       [
+          1653,
+          5
+       ],
+       [
+          1654,
+          5
+       ],
+       [
+          1655,
+          13
+       ],
+       [
+          1656,
+          6
+       ],
+       [
+          1657,
+          8
+       ],
+       [
+          1658,
+          8
+       ],
+       [
+          1659,
+          4
+       ],
+       [
+          1660,
+          10
+       ],
+       [
+          1661,
+          7
+       ],
+       [
+          1662,
+          6
+       ],
+       [
+          1663,
+          7
+       ],
+       [
+          1664,
+          4
+       ],
+       [
+          1665,
+          9
+       ],
+       [
+          1666,
+          7
+       ],
+       [
+          1667,
+          5
+       ],
+       [
+          1668,
+          4
+       ],
+       [
+          1669,
+          5
+       ],
+       [
+          1670,
+          6
+       ],
+       [
+          1671,
+          7
+       ],
+       [
+          1672,
+          4
+       ],
+       [
+          1673,
+          10
+       ],
+       [
+          1674,
+          12
+       ],
+       [
+          1675,
+          11
+       ],
+       [
+          1676,
+          5
+       ],
+       [
+          1677,
+          3
+       ],
+       [
+          1678,
+          7
+       ],
+       [
+          1679,
+          15
+       ],
+       [
+          1680,
+          12
+       ],
+       [
+          1681,
+          10
+       ],
+       [
+          1682,
+          7
+       ],
+       [
+          1683,
+          12
+       ],
+       [
+          1684,
+          9
+       ],
+       [
+          1685,
+          9
+       ],
+       [
+          1686,
+          5
+       ],
+       [
+          1687,
+          11
+       ],
+       [
+          1688,
+          6
+       ],
+       [
+          1689,
+          17
+       ],
+       [
+          1690,
+          7
+       ],
+       [
+          1691,
+          5
+       ],
+       [
+          1692,
+          6
+       ],
+       [
+          1693,
+          15
+       ],
+       [
+          1694,
+          11
+       ],
+       [
+          1695,
+          8
+       ],
+       [
+          1696,
+          4
+       ],
+       [
+          1697,
+          10
+       ],
+       [
+          1698,
+          8
+       ],
+       [
+          1699,
+          10
+       ],
+       [
+          1700,
+          13
+       ],
+       [
+          1701,
+          1
+       ],
+       [
+          1702,
+          4
+       ],
+       [
+          1703,
+          3
+       ],
+       [
+          1704,
+          2
+       ],
+       [
+          1705,
+          3
+       ],
+       [
+          1706,
+          6
+       ],
+       [
+          1707,
+          4
+       ],
+       [
+          1708,
+          4
+       ],
+       [
+          1709,
+          9
+       ],
+       [
+          1710,
+          7
+       ],
+       [
+          1711,
+          5
+       ],
+       [
+          1712,
+          8
+       ],
+       [
+          1713,
+          2
+       ],
+       [
+          1714,
+          2
+       ],
+       [
+          1715,
+          4
+       ],
+       [
+          1716,
+          5
+       ],
+       [
+          1717,
+          4
+       ],
+       [
+          1718,
+          2
+       ],
+       [
+          1719,
+          6
+       ],
+       [
+          1720,
+          6
+       ],
+       [
+          1721,
+          2
+       ],
+       [
+          1722,
+          3
+       ],
+       [
+          1723,
+          5
+       ],
+       [
+          1724,
+          7
+       ],
+       [
+          1725,
+          2
+       ],
+       [
+          1726,
+          9
+       ],
+       [
+          1727,
+          8
+       ],
+       [
+          1728,
+          7
+       ],
+       [
+          1729,
+          4
+       ],
+       [
+          1730,
+          4
+       ],
+       [
+          1731,
+          2
+       ],
+       [
+          1732,
+          1
+       ],
+       [
+          1733,
+          6
+       ],
+       [
+          1734,
+          1
+       ],
+       [
+          1735,
+          7
+       ],
+       [
+          1736,
+          3
+       ],
+       [
+          1738,
+          4
+       ],
+       [
+          1739,
+          2
+       ],
+       [
+          1740,
+          5
+       ],
+       [
+          1741,
+          4
+       ],
+       [
+          1742,
+          5
+       ],
+       [
+          1743,
+          2
+       ],
+       [
+          1744,
+          7
+       ],
+       [
+          1745,
+          3
+       ],
+       [
+          1746,
+          1
+       ],
+       [
+          1747,
+          3
+       ],
+       [
+          1748,
+          6
+       ],
+       [
+          1749,
+          6
+       ],
+       [
+          1750,
+          9
+       ],
+       [
+          1751,
+          2
+       ],
+       [
+          1752,
+          5
+       ],
+       [
+          1753,
+          5
+       ],
+       [
+          1754,
+          6
+       ],
+       [
+          1755,
+          6
+       ],
+       [
+          1756,
+          6
+       ],
+       [
+          1757,
+          6
+       ],
+       [
+          1758,
+          1
+       ],
+       [
+          1759,
+          5
+       ],
+       [
+          1760,
+          6
+       ],
+       [
+          1761,
+          2
+       ],
+       [
+          1762,
+          4
+       ],
+       [
+          1763,
+          6
+       ],
+       [
+          1764,
+          2
+       ],
+       [
+          1765,
+          6
+       ],
+       [
+          1766,
+          8
+       ],
+       [
+          1767,
+          2
+       ],
+       [
+          1768,
+          3
+       ],
+       [
+          1769,
+          6
+       ],
+       [
+          1770,
+          4
+       ],
+       [
+          1771,
+          8
+       ],
+       [
+          1772,
+          9
+       ],
+       [
+          1773,
+          6
+       ],
+       [
+          1774,
+          5
+       ],
+       [
+          1775,
+          18
+       ],
+       [
+          1776,
+          16
+       ],
+       [
+          1777,
+          8
+       ],
+       [
+          1778,
+          5
+       ],
+       [
+          1779,
+          4
+       ],
+       [
+          1780,
+          14
+       ],
+       [
+          1781,
+          4
+       ],
+       [
+          1782,
+          7
+       ],
+       [
+          1783,
+          3
+       ],
+       [
+          1784,
+          4
+       ],
+       [
+          1785,
+          4
+       ],
+       [
+          1786,
+          3
+       ],
+       [
+          1787,
+          8
+       ],
+       [
+          1788,
+          7
+       ],
+       [
+          1789,
+          129
+       ],
+       [
+          1790,
+          285
+       ],
+       [
+          1791,
+          475
+       ],
+       [
+          1792,
+          88
+       ],
+       [
+          1793,
+          54
+       ],
+       [
+          1794,
+          57
+       ],
+       [
+          1795,
+          36
+       ],
+       [
+          1796,
+          40
+       ],
+       [
+          1797,
+          108
+       ],
+       [
+          1798,
+          20
+       ],
+       [
+          1799,
+          14
+       ],
+       [
+          1800,
+          26
+       ],
+       [
+          1801,
+          12
+       ],
+       [
+          1802,
+          10
+       ],
+       [
+          1803,
+          5
+       ],
+       [
+          1804,
+          3
+       ],
+       [
+          1805,
+          5
+       ],
+       [
+          1806,
+          13
+       ],
+       [
+          1807,
+          8
+       ],
+       [
+          1808,
+          16
+       ],
+       [
+          1809,
+          2
+       ],
+       [
+          1810,
+          12
+       ],
+       [
+          1811,
+          21
+       ],
+       [
+          1812,
+          24
+       ],
+       [
+          1813,
+          19
+       ],
+       [
+          1814,
+          17
+       ],
+       [
+          1815,
+          25
+       ],
+       [
+          1816,
+          20
+       ],
+       [
+          1817,
+          13
+       ],
+       [
+          1818,
+          20
+       ],
+       [
+          1819,
+          12
+       ],
+       [
+          1820,
+          7
+       ],
+       [
+          1821,
+          11
+       ],
+       [
+          1822,
+          5
+       ],
+       [
+          1823,
+          7
+       ],
+       [
+          1824,
+          3
+       ],
+       [
+          1825,
+          12
+       ],
+       [
+          1826,
+          6
+       ],
+       [
+          1827,
+          9
+       ],
+       [
+          1828,
+          17
+       ],
+       [
+          1829,
+          12
+       ],
+       [
+          1830,
+          11
+       ],
+       [
+          1831,
+          7
+       ],
+       [
+          1832,
+          8
+       ],
+       [
+          1833,
+          6
+       ],
+       [
+          1834,
+          14
+       ],
+       [
+          1835,
+          9
+       ],
+       [
+          1836,
+          12
+       ],
+       [
+          1837,
+          8
+       ],
+       [
+          1838,
+          9
+       ],
+       [
+          1839,
+          13
+       ],
+       [
+          1840,
+          13
+       ],
+       [
+          1841,
+          11
+       ],
+       [
+          1842,
+          14
+       ],
+       [
+          1843,
+          16
+       ],
+       [
+          1844,
+          14
+       ],
+       [
+          1845,
+          12
+       ],
+       [
+          1846,
+          16
+       ],
+       [
+          1847,
+          17
+       ],
+       [
+          1848,
+          11
+       ],
+       [
+          1849,
+          13
+       ],
+       [
+          1850,
+          16
+       ],
+       [
+          1851,
+          14
+       ],
+       [
+          1852,
+          15
+       ],
+       [
+          1853,
+          20
+       ],
+       [
+          1854,
+          14
+       ],
+       [
+          1855,
+          10
+       ],
+       [
+          1856,
+          14
+       ],
+       [
+          1857,
+          20
+       ],
+       [
+          1858,
+          17
+       ],
+       [
+          1859,
+          19
+       ],
+       [
+          1860,
+          21
+       ],
+       [
+          1861,
+          242
+       ],
+       [
+          1862,
+          125
+       ],
+       [
+          1863,
+          149
+       ],
+       [
+          1864,
+          123
+       ],
+       [
+          1865,
+          29
+       ],
+       [
+          1866,
+          16
+       ],
+       [
+          1867,
+          10
+       ],
+       [
+          1868,
+          9
+       ],
+       [
+          1869,
+          23
+       ],
+       [
+          1870,
+          18
+       ],
+       [
+          1871,
+          11
+       ],
+       [
+          1872,
+          21
+       ],
+       [
+          1873,
+          20
+       ],
+       [
+          1874,
+          18
+       ],
+       [
+          1875,
+          18
+       ],
+       [
+          1876,
+          18
+       ],
+       [
+          1877,
+          14
+       ],
+       [
+          1878,
+          12
+       ],
+       [
+          1879,
+          8
+       ],
+       [
+          1880,
+          16
+       ],
+       [
+          1881,
+          17
+       ],
+       [
+          1882,
+          18
+       ],
+       [
+          1883,
+          19
+       ],
+       [
+          1884,
+          15
+       ],
+       [
+          1885,
+          16
+       ],
+       [
+          1886,
+          17
+       ],
+       [
+          1887,
+          21
+       ],
+       [
+          1888,
+          20
+       ],
+       [
+          1889,
+          20
+       ],
+       [
+          1890,
+          29
+       ],
+       [
+          1891,
+          22
+       ],
+       [
+          1892,
+          25
+       ],
+       [
+          1893,
+          17
+       ],
+       [
+          1894,
+          24
+       ],
+       [
+          1895,
+          18
+       ],
+       [
+          1896,
+          29
+       ],
+       [
+          1897,
+          24
+       ],
+       [
+          1898,
+          28
+       ],
+       [
+          1899,
+          30
+       ],
+       [
+          1900,
+          82
+       ],
+       [
+          1901,
+          23
+       ],
+       [
+          1902,
+          25
+       ],
+       [
+          1903,
+          25
+       ],
+       [
+          1904,
+          31
+       ],
+       [
+          1905,
+          35
+       ],
+       [
+          1906,
+          22
+       ],
+       [
+          1907,
+          25
+       ],
+       [
+          1908,
+          28
+       ],
+       [
+          1909,
+          31
+       ],
+       [
+          1910,
+          23
+       ],
+       [
+          1911,
+          32
+       ],
+       [
+          1912,
+          42
+       ],
+       [
+          1913,
+          40
+       ],
+       [
+          1914,
+          45
+       ],
+       [
+          1915,
+          76
+       ],
+       [
+          1916,
+          68
+       ],
+       [
+          1917,
+          52
+       ],
+       [
+          1918,
+          74
+       ],
+       [
+          1919,
+          55
+       ],
+       [
+          1920,
+          42
+       ],
+       [
+          1921,
+          20
+       ],
+       [
+          1922,
+          44
+       ],
+       [
+          1923,
+          28
+       ],
+       [
+          1924,
+          33
+       ],
+       [
+          1925,
+          38
+       ],
+       [
+          1926,
+          36
+       ],
+       [
+          1927,
+          28
+       ],
+       [
+          1928,
+          28
+       ],
+       [
+          1929,
+          38
+       ],
+       [
+          1930,
+          47
+       ],
+       [
+          1931,
+          40
+       ],
+       [
+          1932,
+          23
+       ],
+       [
+          1933,
+          39
+       ],
+       [
+          1934,
+          32
+       ],
+       [
+          1935,
+          44
+       ],
+       [
+          1936,
+          44
+       ],
+       [
+          1937,
+          62
+       ],
+       [
+          1938,
+          58
+       ],
+       [
+          1939,
+          48
+       ],
+       [
+          1940,
+          89
+       ],
+       [
+          1941,
+          70
+       ],
+       [
+          1942,
+          77
+       ],
+       [
+          1943,
+          77
+       ],
+       [
+          1944,
+          73
+       ],
+       [
+          1945,
+          60
+       ],
+       [
+          1946,
+          57
+       ],
+       [
+          1947,
+          60
+       ],
+       [
+          1948,
+          56
+       ],
+       [
+          1949,
+          59
+       ],
+       [
+          1950,
+          56
+       ],
+       [
+          1951,
+          39
+       ],
+       [
+          1952,
+          74
+       ],
+       [
+          1953,
+          73
+       ],
+       [
+          1954,
+          67
+       ],
+       [
+          1955,
+          64
+       ],
+       [
+          1956,
+          67
+       ],
+       [
+          1957,
+          77
+       ],
+       [
+          1958,
+          85
+       ],
+       [
+          1959,
+          92
+       ],
+       [
+          1960,
+          117
+       ],
+       [
+          1961,
+          132
+       ],
+       [
+          1962,
+          140
+       ],
+       [
+          1963,
+          136
+       ],
+       [
+          1964,
+          154
+       ],
+       [
+          1965,
+          154
+       ],
+       [
+          1966,
+          182
+       ],
+       [
+          1967,
+          179
+       ],
+       [
+          1968,
+          207
+       ],
+       [
+          1969,
+          255
+       ],
+       [
+          1970,
+          248
+       ],
+       [
+          1971,
+          217
+       ],
+       [
+          1972,
+          244
+       ],
+       [
+          1973,
+          229
+       ],
+       [
+          1974,
+          352
+       ],
+       [
+          1975,
+          242
+       ],
+       [
+          1976,
+          236
+       ],
+       [
+          1977,
+          291
+       ],
+       [
+          1978,
+          283
+       ],
+       [
+          1979,
+          340
+       ],
+       [
+          1980,
+          366
+       ],
+       [
+          1981,
+          325
+       ],
+       [
+          1982,
+          439
+       ],
+       [
+          1983,
+          488
+       ],
+       [
+          1984,
+          486
+       ],
+       [
+          1985,
+          632
+       ],
+       [
+          1986,
+          610
+       ],
+       [
+          1987,
+          635
+       ],
+       [
+          1988,
+          630
+       ],
+       [
+          1989,
+          755
+       ],
+       [
+          1990,
+          831
+       ],
+       [
+          1991,
+          887
+       ],
+       [
+          1992,
+          975
+       ],
+       [
+          1993,
+          1141
+       ],
+       [
+          1994,
+          1351
+       ],
+       [
+          1995,
+          1591
+       ],
+       [
+          1996,
+          1647
+       ],
+       [
+          1997,
+          1677
+       ],
+       [
+          1998,
+          1603
+       ],
+       [
+          1999,
+          1351
+       ],
+       [
+          2000,
+          1272
+       ],
+       [
+          2001,
+          1278
+       ],
+       [
+          2002,
+          1372
+       ],
+       [
+          2003,
+          1329
+       ],
+       [
+          2004,
+          1321
+       ],
+       [
+          2005,
+          1376
+       ],
+       [
+          2006,
+          1374
+       ],
+       [
+          2007,
+          1431
+       ],
+       [
+          2008,
+          1299
+       ],
+       [
+          2009,
+          1132
+       ],
+       [
+          2010,
+          933
+       ],
+       [
+          2011,
+          862
+       ],
+       [
+          2012,
+          794
+       ],
+       [
+          2013,
+          688
+       ],
+       [
+          2014,
+          635
+       ],
+       [
+          2015,
+          509
+       ],
+       [
+          2016,
+          312
+       ],
+       [
+          2017,
+          182
+       ],
+       [
+          2018,
+          135
+       ],
+       [
+          2019,
+          50
+       ],
+       [
+          2020,
+          51
+       ],
+       [
+          2021,
+          38
+       ],
+       [
+          2022,
+          22
+       ],
+       [
+          2023,
+          2
+       ]
+    ]
+ }]
