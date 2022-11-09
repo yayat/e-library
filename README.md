@@ -20,7 +20,7 @@ method: GET
 URL: http://localhost:3200/books/detail/love?title=Wuthering Heights
 ```
 - /bocking
--- to get detail subject by title use `?title=Wuthering Heights` for get more title you can read from response by subject
+-- to bocking books field the payload using `subject, title, name of bocker` for get more title you can read from response by subject
 ```
 method: post
 URL: http://localhost:3200/bocking
